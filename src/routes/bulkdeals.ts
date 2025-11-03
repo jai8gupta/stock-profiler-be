@@ -1,8 +1,8 @@
 import express from "express";
-import { fetchBulkDeals } from "../services/largeDeals.ts";
-import { transformBulkDeals } from "../utils/transformBulkDeals.ts";
-import { insertMany, getDealsByDate } from "../database/dealsRepo.ts";
-import type { DealEntry } from "types/nseDeals.ts";
+import { fetchBulkDeals } from "../services/largeDeals.js";
+import { transformBulkDeals } from "../utils/transformBulkDeals.js";
+import { insertMany, getDealsByDate } from "../database/dealsRepo.js";
+import type { DealEntry } from "../types/nseDeals.js";
 
 const router = express.Router();
 

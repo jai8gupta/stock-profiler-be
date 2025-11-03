@@ -1,5 +1,5 @@
-import db from "../db.ts";
-import type { DealEntry } from "../types/nseDeals.ts";
+import db from "../db.js";
+import type { DealEntry } from "../types/nseDeals.js";
 
 
 export function insertDeal(deal: DealEntry) {

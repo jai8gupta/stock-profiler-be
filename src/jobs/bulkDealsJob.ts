@@ -1,9 +1,9 @@
 import cron from "node-cron";
-import { fetchBulkDeals } from "../services/largeDeals.ts";
-import { transformBulkDeals } from "../utils/transformBulkDeals.ts";
-import { insertMany, getDealsByDate } from "../database/dealsRepo.ts";
-import type { DealEntry } from "types/nseDeals.ts";
-import { sendPushNotification } from "../notifications/pushNotifications.ts";
+import { fetchBulkDeals } from "../services/largeDeals.js";
+import { transformBulkDeals } from "../utils/transformBulkDeals.js";
+import { insertMany, getDealsByDate } from "../database/dealsRepo.js";
+import type { DealEntry } from "../types/nseDeals.js";
+import { sendPushNotification } from "../notifications/pushNotifications.js";
 
 
 

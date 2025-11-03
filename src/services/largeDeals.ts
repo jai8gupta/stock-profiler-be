@@ -1,5 +1,5 @@
 import axios from "axios";
-import type { NseLargeDealResponse } from "types/nseDeals.ts";
+import type { NseLargeDealResponse } from "../types/nseDeals.js";
 
 const headers = {
   "User-Agent": "Mozilla/5.0",

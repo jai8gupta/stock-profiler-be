@@ -1,9 +1,9 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import bulkDealsRouter from "./routes/bulkdeals.ts";
-import registerPushTokenRouter from "./routes/registerPushToken.ts";
-import "./jobs/bulkDealsJob.ts";
+import bulkDealsRouter from "./routes/bulkdeals.js";
+import registerPushTokenRouter from "./routes/registerPushToken.js";
+import "./jobs/bulkDealsJob.js";
 
 dotenv.config();
 const app = express();

@@ -1,4 +1,4 @@
-import type { DealEntry, NseLargeDealResponse } from "../types/nseDeals.ts";
+import type { DealEntry, NseLargeDealResponse } from "../types/nseDeals.js";
 
 export const transformBulkDeals = (data: NseLargeDealResponse) => {
     if (!data) return [];
