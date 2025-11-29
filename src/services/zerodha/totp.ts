@@ -1,5 +1,7 @@
-import { totp } from "otplib";
+import { TOTP } from "totp-generator"
 
-export function generateTOTP(secret: string) {
-  return totp.generate(secret);
+export async function generateTOTP(secret: string) {
+  return await TOTP.generate(secret);
 }
+
+// generateTOTP("3BLELFRGWLNSD6EKLOCXWZHAPGXXGNEC").then((res) => console.log(res))

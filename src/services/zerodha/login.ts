@@ -1,4 +1,4 @@
-// zerodha/login.js
+// zerodha/login.ts
 import dotenv from "dotenv";
 import axios from "axios";
 import { CookieJar } from "tough-cookie";
@@ -6,58 +6,104 @@ import { wrapper } from "axios-cookiejar-support";
 import { generateTOTP } from "./totp.js";
 import { storeSession } from "./session.js";
 
-
 dotenv.config();
 
 const jar = new CookieJar();
 const client = wrapper(axios.create({ jar, withCredentials: true }));
 
-async function loginToKite() {
-  const totp = generateTOTP(process.env.KITE_TOTP_SECRET as string);
-  console.log("Generated TOTP:", totp);
+export async function loginToKite() {
+  try {
+    const { otp: totp } = await generateTOTP(process.env.KITE_TOTP_SECRET!);
+    console.log("Generated TOTP:", totp);
 
-  // 1. GET login page (sets cookies)
-  await client.get("https://kite.zerodha.com");
+    // STEP 1 — GET login page to set cookies
+    await client.get("https://kite.zerodha.com/", {
+      headers: { "User-Agent": "Mozilla/5.0" }
+    });
 
-  // 2. POST username + password
-  const r1 = await client.post(
-    "https://kite.zerodha.com/api/login",
-    {
-      user_id: process.env.KITE_USER_ID,
-      password: process.env.KITE_PASSWORD
+    // STEP 2 — LOGIN
+    // STEP 2 — LOGIN (FIXED ENDPOINT)
+    const r1 = await client.post(
+      "https://kite.zerodha.com/api/login",   // <-- FIXED
+      new URLSearchParams({
+        user_id: process.env.KITE_USER_ID!,
+        password: process.env.KITE_PASSWORD!,
+        type: "user_id"
+      }),
+      {
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "x-kite-app-uuid": "616d4415-d4a8-4f23-8596-4fef0e081759",
+          "x-kite-userid": process.env.KITE_USER_ID!,
+          "x-kite-version": "3.0.0",
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://kite.zerodha.com/"
+        }
+      }
+    );
+
+
+    console.log("Login OK:", r1.data.data);
+
+    const { user_id, request_id, twofa_type } = r1.data.data;
+
+    // STEP 3 — SEND TOTP
+    const r2 = await client.post(
+      "https://kite.zerodha.com/api/twofa",
+      new URLSearchParams({
+        user_id,
+        request_id,
+        twofa_type,
+        twofa_value: totp
+      }),
+      {
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "x-kite-app-uuid": "616d4415-d4a8-4f23-8596-4fef0e081759",
+          "x-kite-userid": process.env.KITE_USER_ID!,
+          "x-kite-version": "3.0.0",
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://kite.zerodha.com/"
+        }
+      }
+    );
+
+    console.log("TOTP OK:", r2.data);
+
+    let r3;
+    try {
+      r3 = await client.get(
+        `https://kite.zerodha.com/connect/login?v=3&api_key=${process.env.KITE_API_KEY}`,
+        {
+          maxRedirects: 0,                                // block automatic redirect
+          validateStatus: () => true                      // allow non-200 through
+        }
+      );
+    } catch (err: any) {
+      // Axios throws on 302 when maxRedirects=0
+      r3 = err.response;
     }
-  );
 
-  if (r1.data.status !== "success")
-    throw new Error("Login step failed");
+    console.log("Status:", r3.status);
+    console.log("Redirect location:", r3.headers.location);
 
-  // 3. POST TOTP (2FA)
-  const r2 = await client.post(
-    "https://kite.zerodha.com/api/twofa",
-    {
-      user_id: process.env.KITE_USER_ID,
-      request_id: r1.data.data.request_id,
-      twofa_value: totp,
-      twofa_type: "totp"
-    }
-  );
+    const redirect = r3.headers.location;
 
-  if (r2.data.status !== "success")
-    throw new Error("TOTP step failed");
+    await client.get(redirect)
 
-  // 4. Zerodha now redirects to a URL with ?request_token=XXXX
-  const redirectUrl = r2.data.data.redirect_url;
+    // // STEP 4 — Extract request_token (sess_id)
+    // const redirectUrl = r2.data.data.redirect_url;
+    // console.log("redirectUrl", redirectUrl);
+    // const sessId = new URL(redirectUrl).searchParams.get("sess_id");
 
-  const urlObj = new URL(redirectUrl);
-  const request_token = urlObj.searchParams.get("request_token");
+    // console.log("Request token:", sessId);
 
-  if (!request_token)
-    throw new Error("Failed to extract request_token");
+    // await storeSession(sessId!);
 
-  console.log("Got request_token:", request_token);
+    // console.log("Session stored ✔");
 
-  // 5. Exchange for access_token
-  await storeSession(request_token);
+  } catch (err) {
+    console.error("Login failed:", err);
+    throw err;
+  }
 }
-
-export { loginToKite };

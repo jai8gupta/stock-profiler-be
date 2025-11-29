@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import bulkDealsRouter from "./routes/bulkdeals.js";
 import registerPushTokenRouter from "./routes/registerPushToken.js";
+import requestTokenRouter from "./routes/requestToken.js";
 import "./jobs/bulkDealsJob.js";
 
 dotenv.config();
@@ -14,6 +15,7 @@ app.use(express.json());
 
 app.use("/api/registerPushToken", registerPushTokenRouter);
 app.use("/api/bulkdeals", bulkDealsRouter);
+app.use("/", requestTokenRouter)
 
 app.get("/", (_, res) => res.json({message:"Stock Profiler API is running 🚀"}));
 

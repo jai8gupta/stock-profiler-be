@@ -1,11 +1,11 @@
 
-import dotenv from "dotenv";    
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+// import dotenv from "dotenv";    
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { KiteConnect } from "kiteconnect";
 
-dotenv.config();
+// dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
