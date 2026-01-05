@@ -1,0 +1,4265 @@
+👀 Watching 700 stocks...
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 715265,
+  last_price: 152.2,
+  last_traded_quantity: 417,
+  average_traded_price: 152.82,
+  volume_traded: 10402,
+  total_buy_quantity: 16997,
+  total_sell_quantity: 15495,
+  ohlc: { open: 150.05, high: 154, low: 150.05, close: 151.2 },
+  change: 0.6613756613756614,
+  last_trade_time: 2025-12-10T07:39:35.000Z,
+  exchange_timestamp: 2025-12-10T07:39:36.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:09:37 | undefined (715265) | LTP=152.2 | BuyRatio=4.78 | ΔVol=670 | Buy=153 | Sell=32
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 539393,
+  last_price: 583,
+  last_traded_quantity: 11,
+  average_traded_price: 589.08,
+  volume_traded: 16470,
+  total_buy_quantity: 22493,
+  total_sell_quantity: 16491,
+  ohlc: { open: 585.05, high: 594.95, low: 580.75, close: 588.75 },
+  change: -0.9766454352441614,
+  last_trade_time: 2025-12-10T08:11:01.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (539393) | LTP=583 | BuyRatio=7.57 | ΔVol=1894 | Buy=772 | Sell=102
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 539137,
+  last_price: 753.5,
+  last_traded_quantity: 8,
+  average_traded_price: 755.19,
+  volume_traded: 20366,
+  total_buy_quantity: 19259,
+  total_sell_quantity: 10412,
+  ohlc: { open: 766.85, high: 766.85, low: 744.35, close: 759.25 },
+  change: -0.7573263088574251,
+  last_trade_time: 2025-12-10T08:12:12.000Z,
+  exchange_timestamp: 2025-12-10T08:12:16.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (539137) | LTP=753.5 | BuyRatio=9.70 | ΔVol=12498 | Buy=194 | Sell=20
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 619777,
+  last_price: 1388.4,
+  last_traded_quantity: 1,
+  average_traded_price: 1393.67,
+  volume_traded: 4011,
+  total_buy_quantity: 8105,
+  total_sell_quantity: 3075,
+  ohlc: { open: 1400, high: 1415, low: 1378.8, close: 1378.2 },
+  change: 0.7400957771005693,
+  last_trade_time: 2025-12-10T08:10:04.000Z,
+  exchange_timestamp: 2025-12-10T08:11:06.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (619777) | LTP=1388.4 | BuyRatio=4.30 | ΔVol=342 | Buy=43 | Sell=10
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 923649,
+  last_price: 148.08,
+  last_traded_quantity: 170,
+  average_traded_price: 148.21,
+  volume_traded: 2715,
+  total_buy_quantity: 15304,
+  total_sell_quantity: 9187,
+  ohlc: { open: 148.65, high: 148.78, low: 148.05, close: 148.27 },
+  change: -0.12814460106562198,
+  last_trade_time: 2025-12-10T08:11:37.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (923649) | LTP=148.08 | BuyRatio=7.58 | ΔVol=2196 | Buy=14085 | Sell=1859
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1003009,
+  last_price: 885.05,
+  last_traded_quantity: 264,
+  average_traded_price: 889.16,
+  volume_traded: 308237,
+  total_buy_quantity: 59581,
+  total_sell_quantity: 112838,
+  ohlc: { open: 897.3, high: 897.85, low: 879.6, close: 892.8 },
+  change: -0.8680555555555556,
+  last_trade_time: 2025-12-10T08:12:07.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (1003009) | LTP=885.05 | BuyRatio=6.21 | ΔVol=16540 | Buy=813 | Sell=131
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 342017,
+  last_price: 544.5,
+  last_traded_quantity: 4,
+  average_traded_price: 544.09,
+  volume_traded: 606059,
+  total_buy_quantity: 71517,
+  total_sell_quantity: 409723,
+  ohlc: { open: 535.5, high: 546.95, low: 535.5, close: 536.75 },
+  change: 1.4438751746623195,
+  last_trade_time: 2025-12-10T08:12:02.000Z,
+  exchange_timestamp: 2025-12-10T08:12:06.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (342017) | LTP=544.5 | BuyRatio=4.21 | ΔVol=38434 | Buy=923 | Sell=219
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 462849,
+  last_price: 1041.6,
+  last_traded_quantity: 2,
+  average_traded_price: 1046.36,
+  volume_traded: 181180,
+  total_buy_quantity: 19835,
+  total_sell_quantity: 20351,
+  ohlc: { open: 1043.5, high: 1050.9, low: 1036.8, close: 1043.5 },
+  change: -0.18207954000959184,
+  last_trade_time: 2025-12-10T08:12:09.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (462849) | LTP=1041.6 | BuyRatio=5.12 | ΔVol=29618 | Buy=128 | Sell=25
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 573697,
+  last_price: 43.81,
+  last_traded_quantity: 1,
+  average_traded_price: 43.66,
+  volume_traded: 38,
+  total_buy_quantity: 31275,
+  total_sell_quantity: 4659,
+  ohlc: { open: 44, high: 44, low: 43.65, close: 44.04 },
+  change: -0.5222524977293299,
+  last_trade_time: 2025-12-10T08:09:52.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (573697) | LTP=43.81 | BuyRatio=30.45 | ΔVol=2 | Buy=5267 | Sell=173
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 669697,
+  last_price: 977.15,
+  last_traded_quantity: 1,
+  average_traded_price: 973.55,
+  volume_traded: 124187,
+  total_buy_quantity: 34400,
+  total_sell_quantity: 7616,
+  ohlc: { open: 997.3, high: 1001.3, low: 970, close: 997.3 },
+  change: -2.020455229118618,
+  last_trade_time: 2025-12-10T08:12:09.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (669697) | LTP=977.15 | BuyRatio=40.68 | ΔVol=93722 | Buy=1017 | Sell=25
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 828673,
+  last_price: 144.35,
+  last_traded_quantity: 1,
+  average_traded_price: 145.33,
+  volume_traded: 29340,
+  total_buy_quantity: 77873,
+  total_sell_quantity: 29815,
+  ohlc: { open: 145, high: 146.53, low: 144, close: 145.99 },
+  change: -1.1233646140146687,
+  last_trade_time: 2025-12-10T08:11:54.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (828673) | LTP=144.35 | BuyRatio=4.74 | ΔVol=1657 | Buy=256 | Sell=54
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1076225,
+  last_price: 117.03,
+  last_traded_quantity: 25,
+  average_traded_price: 116.78,
+  volume_traded: 5426058,
+  total_buy_quantity: 1577302,
+  total_sell_quantity: 2179131,
+  ohlc: { open: 116.75, high: 117.57, low: 116.15, close: 116.75 },
+  change: 0.23982869379015087,
+  last_trade_time: 2025-12-10T08:12:18.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (1076225) | LTP=117.03 | BuyRatio=8.47 | ΔVol=328833 | Buy=34581 | Sell=4082
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 197633,
+  last_price: 503.15,
+  last_traded_quantity: 600,
+  average_traded_price: 501.88,
+  volume_traded: 631851,
+  total_buy_quantity: 351997,
+  total_sell_quantity: 278987,
+  ohlc: { open: 505, high: 505.95, low: 498.1, close: 503.6 },
+  change: -0.08935663224782475,
+  last_trade_time: 2025-12-10T08:12:15.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (197633) | LTP=503.15 | BuyRatio=7.52 | ΔVol=149691 | Buy=4188 | Sell=557
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 245249,
+  last_price: 3657,
+  last_traded_quantity: 1,
+  average_traded_price: 3678.99,
+  volume_traded: 15893,
+  total_buy_quantity: 6560,
+  total_sell_quantity: 11103,
+  ohlc: { open: 3700.9, high: 3708, low: 3650.3, close: 3674.8 },
+  change: -0.48438010231849843,
+  last_trade_time: 2025-12-10T08:11:55.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (245249) | LTP=3657 | BuyRatio=15.58 | ΔVol=875 | Buy=296 | Sell=19
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 916225,
+  last_price: 444.3,
+  last_traded_quantity: 28,
+  average_traded_price: 443.91,
+  volume_traded: 3110,
+  total_buy_quantity: 27144,
+  total_sell_quantity: 9309,
+  ohlc: { open: 445.8, high: 447.05, low: 442, close: 443.6 },
+  change: 0.15779981965734638,
+  last_trade_time: 2025-12-10T08:06:47.000Z,
+  exchange_timestamp: 2025-12-10T08:12:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (916225) | LTP=444.3 | BuyRatio=12.00 | ΔVol=431 | Buy=468 | Sell=39
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 850177,
+  last_price: 173.22,
+  last_traded_quantity: 65,
+  average_traded_price: 177.09,
+  volume_traded: 249194,
+  total_buy_quantity: 48873,
+  total_sell_quantity: 51953,
+  ohlc: { open: 180.9, high: 183, low: 172.82, close: 181.12 },
+  change: -4.361749116607777,
+  last_trade_time: 2025-12-10T08:12:15.000Z,
+  exchange_timestamp: 2025-12-10T08:12:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (850177) | LTP=173.22 | BuyRatio=9.63 | ΔVol=23759 | Buy=231 | Sell=24
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 867585,
+  last_price: 702,
+  last_traded_quantity: 38,
+  average_traded_price: 714.72,
+  volume_traded: 20498,
+  total_buy_quantity: 14888,
+  total_sell_quantity: 13906,
+  ohlc: { open: 705, high: 726, low: 700, close: 710 },
+  change: -1.1267605633802817,
+  last_trade_time: 2025-12-10T08:12:03.000Z,
+  exchange_timestamp: 2025-12-10T08:12:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (867585) | LTP=702 | BuyRatio=4.09 | ΔVol=6122 | Buy=94 | Sell=23
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 563969,
+  last_price: 335.1,
+  last_traded_quantity: 14,
+  average_traded_price: 335.53,
+  volume_traded: 83537,
+  total_buy_quantity: 72356,
+  total_sell_quantity: 33620,
+  ohlc: { open: 335.98, high: 336, low: 334.95, close: 334.95 },
+  change: 0.04478280340350324,
+  last_trade_time: 2025-12-10T08:12:06.000Z,
+  exchange_timestamp: 2025-12-10T08:12:17.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (563969) | LTP=335.1 | BuyRatio=5.18 | ΔVol=7393 | Buy=881 | Sell=170
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 297473,
+  last_price: 8,
+  last_traded_quantity: 1,
+  average_traded_price: 8.06,
+  volume_traded: 268365,
+  total_buy_quantity: 449623,
+  total_sell_quantity: 252132,
+  ohlc: { open: 7.74, high: 8.2, low: 7.74, close: 7.74 },
+  change: 3.359173126614984,
+  last_trade_time: 2025-12-10T08:11:26.000Z,
+  exchange_timestamp: 2025-12-10T08:11:28.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (297473) | LTP=8 | BuyRatio=20.56 | ΔVol=18284 | Buy=165486 | Sell=8050
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 403457,
+  last_price: 8268,
+  last_traded_quantity: 1,
+  average_traded_price: 8302.08,
+  volume_traded: 12187,
+  total_buy_quantity: 3242,
+  total_sell_quantity: 5916,
+  ohlc: { open: 8345, high: 8399, low: 8253, close: 8351 },
+  change: -0.9938929469524608,
+  last_trade_time: 2025-12-10T08:12:16.000Z,
+  exchange_timestamp: 2025-12-10T08:12:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (403457) | LTP=8268 | BuyRatio=5.08 | ΔVol=4128 | Buy=61 | Sell=12
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 898305,
+  last_price: 105.01,
+  last_traded_quantity: 25,
+  average_traded_price: 105.63,
+  volume_traded: 99933,
+  total_buy_quantity: 96997,
+  total_sell_quantity: 58150,
+  ohlc: { open: 104, high: 106.81, low: 104, close: 105.56 },
+  change: -0.5210306934444838,
+  last_trade_time: 2025-12-10T08:10:00.000Z,
+  exchange_timestamp: 2025-12-10T08:10:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (898305) | LTP=105.01 | BuyRatio=25.84 | ΔVol=15690 | Buy=3540 | Sell=137
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 610561,
+  last_price: 142,
+  last_traded_quantity: 1188,
+  average_traded_price: 142.14,
+  volume_traded: 29734,
+  total_buy_quantity: 43640,
+  total_sell_quantity: 36371,
+  ohlc: { open: 140.6, high: 143.98, low: 140.6, close: 140.44 },
+  change: 1.1107946454001725,
+  last_trade_time: 2025-12-10T08:10:14.000Z,
+  exchange_timestamp: 2025-12-10T08:12:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (610561) | LTP=142 | BuyRatio=9.81 | ΔVol=2073 | Buy=569 | Sell=58
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 175361,
+  last_price: 1750,
+  last_traded_quantity: 12,
+  average_traded_price: 1746.56,
+  volume_traded: 724565,
+  total_buy_quantity: 128037,
+  total_sell_quantity: 118395,
+  ohlc: { open: 1725, high: 1757.4, low: 1721.6, close: 1731.2 },
+  change: 1.0859519408502747,
+  last_trade_time: 2025-12-10T08:12:15.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (175361) | LTP=1750 | BuyRatio=6.91 | ΔVol=46157 | Buy=539 | Sell=78
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 592897,
+  last_price: 170.71,
+  last_traded_quantity: 1,
+  average_traded_price: 171.95,
+  volume_traded: 51144,
+  total_buy_quantity: 47056,
+  total_sell_quantity: 32914,
+  ohlc: { open: 171.95, high: 173.76, low: 170.5, close: 172.59 },
+  change: -1.089286748942578,
+  last_trade_time: 2025-12-10T08:12:08.000Z,
+  exchange_timestamp: 2025-12-10T08:12:15.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (592897) | LTP=170.71 | BuyRatio=11.61 | ΔVol=2695 | Buy=592 | Sell=51
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1039361,
+  last_price: 2.61,
+  last_traded_quantity: 1000,
+  average_traded_price: 2.6,
+  volume_traded: 22746,
+  total_buy_quantity: 259465,
+  total_sell_quantity: 0,
+  ohlc: { open: 2.6, high: 2.61, low: 2.6, close: 2.38 },
+  change: 9.663865546218489,
+  last_trade_time: 2025-12-10T07:53:55.000Z,
+  exchange_timestamp: 2025-12-10T08:10:54.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (1039361) | LTP=2.61 | BuyRatio=240367.00 | ΔVol=1250 | Buy=240367 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 719105,
+  last_price: 38.4,
+  last_traded_quantity: 2,
+  average_traded_price: 36.1,
+  volume_traded: 262817,
+  total_buy_quantity: 139915,
+  total_sell_quantity: 0,
+  ohlc: { open: 32.43, high: 38.4, low: 32.14, close: 32 },
+  change: 19.999999999999996,
+  last_trade_time: 2025-12-10T08:12:10.000Z,
+  exchange_timestamp: 2025-12-10T08:12:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (719105) | LTP=38.4 | BuyRatio=38500.00 | ΔVol=139726 | Buy=38500 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 767233,
+  last_price: 61.39,
+  last_traded_quantity: 485,
+  average_traded_price: 61.44,
+  volume_traded: 97008,
+  total_buy_quantity: 69919,
+  total_sell_quantity: 75537,
+  ohlc: { open: 62.7, high: 62.71, low: 60.98, close: 61.64 },
+  change: -0.40558079169370537,
+  last_trade_time: 2025-12-10T08:11:10.000Z,
+  exchange_timestamp: 2025-12-10T08:12:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (767233) | LTP=61.39 | BuyRatio=15.01 | ΔVol=13803 | Buy=17606 | Sell=1173
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 873217,
+  last_price: 4887,
+  last_traded_quantity: 3,
+  average_traded_price: 4932.09,
+  volume_traded: 119384,
+  total_buy_quantity: 29706,
+  total_sell_quantity: 32986,
+  ohlc: { open: 5002.5, high: 5003, low: 4881.5, close: 4979.5 },
+  change: -1.857616226528768,
+  last_trade_time: 2025-12-10T08:12:12.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (873217) | LTP=4887 | BuyRatio=6.71 | ΔVol=7344 | Buy=798 | Sell=119
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 361473,
+  last_price: 726.8,
+  last_traded_quantity: 3,
+  average_traded_price: 731.79,
+  volume_traded: 24382,
+  total_buy_quantity: 22974,
+  total_sell_quantity: 15266,
+  ohlc: { open: 738.6, high: 740.85, low: 720, close: 737.4 },
+  change: -1.437483048548959,
+  last_trade_time: 2025-12-10T08:10:54.000Z,
+  exchange_timestamp: 2025-12-10T08:12:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (361473) | LTP=726.8 | BuyRatio=15.37 | ΔVol=5283 | Buy=1045 | Sell=68
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 269569,
+  last_price: 476.15,
+  last_traded_quantity: 12,
+  average_traded_price: 478.5,
+  volume_traded: 7760,
+  total_buy_quantity: 78209,
+  total_sell_quantity: 6131,
+  ohlc: { open: 476.3, high: 482, low: 472.6, close: 473.8 },
+  change: 0.4959898691430911,
+  last_trade_time: 2025-12-10T08:08:58.000Z,
+  exchange_timestamp: 2025-12-10T08:09:03.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (269569) | LTP=476.15 | BuyRatio=5.38 | ΔVol=777 | Buy=344 | Sell=64
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 590593,
+  last_price: 122.99,
+  last_traded_quantity: 1,
+  average_traded_price: 123.17,
+  volume_traded: 8682,
+  total_buy_quantity: 98744,
+  total_sell_quantity: 13274,
+  ohlc: { open: 124.54, high: 124.54, low: 122.8, close: 123.32 },
+  change: -0.26759649691858445,
+  last_trade_time: 2025-12-10T08:09:33.000Z,
+  exchange_timestamp: 2025-12-10T08:09:36.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (590593) | LTP=122.99 | BuyRatio=62.97 | ΔVol=1194 | Buy=3904 | Sell=62
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 969473,
+  last_price: 258.5,
+  last_traded_quantity: 1,
+  average_traded_price: 258.71,
+  volume_traded: 5935104,
+  total_buy_quantity: 783201,
+  total_sell_quantity: 1494410,
+  ohlc: { open: 258.01, high: 260.37, low: 257.81, close: 257.41 },
+  change: 0.42344897245638274,
+  last_trade_time: 2025-12-10T08:12:18.000Z,
+  exchange_timestamp: 2025-12-10T08:12:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (969473) | LTP=258.5 | BuyRatio=19.80 | ΔVol=438870 | Buy=14101 | Sell=712
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 681985,
+  last_price: 1457.9,
+  last_traded_quantity: 6,
+  average_traded_price: 1456.19,
+  volume_traded: 262679,
+  total_buy_quantity: 103810,
+  total_sell_quantity: 83138,
+  ohlc: { open: 1450.7, high: 1466.4, low: 1450.7, close: 1459.8 },
+  change: -0.1301548157281726,
+  last_trade_time: 2025-12-10T08:12:18.000Z,
+  exchange_timestamp: 2025-12-10T08:12:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (681985) | LTP=1457.9 | BuyRatio=8.10 | ΔVol=34891 | Buy=2381 | Sell=294
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 291585,
+  last_price: 163.42,
+  last_traded_quantity: 6,
+  average_traded_price: 164.11,
+  volume_traded: 24073,
+  total_buy_quantity: 55660,
+  total_sell_quantity: 34752,
+  ohlc: { open: 165.7, high: 165.79, low: 162.9, close: 164.51 },
+  change: -0.6625737037262194,
+  last_trade_time: 2025-12-10T08:10:13.000Z,
+  exchange_timestamp: 2025-12-10T08:11:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (291585) | LTP=163.42 | BuyRatio=16.07 | ΔVol=3506 | Buy=1093 | Sell=68
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 557057,
+  last_price: 11.88,
+  last_traded_quantity: 200,
+  average_traded_price: 11.97,
+  volume_traded: 5793,
+  total_buy_quantity: 183415,
+  total_sell_quantity: 86823,
+  ohlc: { open: 11.95, high: 12, low: 11.82, close: 11.81 },
+  change: 0.5927180355630846,
+  last_trade_time: 2025-12-10T08:08:01.000Z,
+  exchange_timestamp: 2025-12-10T08:11:09.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 13:42:21 | undefined (557057) | LTP=11.88 | BuyRatio=5.23 | ΔVol=410 | Buy=2395 | Sell=458
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 411393,
+  last_price: 0.72,
+  last_traded_quantity: 1000,
+  average_traded_price: 0.71,
+  volume_traded: 61639350,
+  total_buy_quantity: 144526968,
+  total_sell_quantity: 709268,
+  ohlc: { open: 0.68, high: 0.72, low: 0.66, close: 0.66 },
+  change: 9.090909090909083,
+  last_trade_time: 2025-12-10T08:45:43.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (411393) | LTP=0.72 | BuyRatio=199.88 | ΔVol=8443828 | Buy=141770668 | Sell=709268
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 175361,
+  last_price: 1744.9,
+  last_traded_quantity: 4,
+  average_traded_price: 1746.62,
+  volume_traded: 772546,
+  total_buy_quantity: 118781,
+  total_sell_quantity: 127130,
+  ohlc: { open: 1725, high: 1757.4, low: 1721.6, close: 1731.2 },
+  change: 0.7913585951940877,
+  last_trade_time: 2025-12-10T08:45:47.000Z,
+  exchange_timestamp: 2025-12-10T08:45:49.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (175361) | LTP=1744.9 | BuyRatio=7.53 | ΔVol=47032 | Buy=753 | Sell=100
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 563969,
+  last_price: 335.06,
+  last_traded_quantity: 2,
+  average_traded_price: 335.5,
+  volume_traded: 91002,
+  total_buy_quantity: 72679,
+  total_sell_quantity: 33710,
+  ohlc: { open: 335.98, high: 336, low: 334.95, close: 334.95 },
+  change: 0.032840722495898984,
+  last_trade_time: 2025-12-10T08:45:39.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (563969) | LTP=335.06 | BuyRatio=6.53 | ΔVol=7443 | Buy=966 | Sell=148
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 462081,
+  last_price: 228,
+  last_traded_quantity: 16,
+  average_traded_price: 234.04,
+  volume_traded: 17193,
+  total_buy_quantity: 10259,
+  total_sell_quantity: 17696,
+  ohlc: { open: 233, high: 238, low: 228, close: 230.19 },
+  change: -0.951387983839436,
+  last_trade_time: 2025-12-10T08:40:48.000Z,
+  exchange_timestamp: 2025-12-10T08:42:52.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (462081) | LTP=228 | BuyRatio=4.52 | ΔVol=1556 | Buy=95 | Sell=21
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 897793,
+  last_price: 176.52,
+  last_traded_quantity: 9,
+  average_traded_price: 176.51,
+  volume_traded: 120109,
+  total_buy_quantity: 288051,
+  total_sell_quantity: 0,
+  ohlc: { open: 176.52, high: 176.52, low: 176, close: 176.2 },
+  change: 0.18161180476732214,
+  last_trade_time: 2025-12-10T08:41:36.000Z,
+  exchange_timestamp: 2025-12-10T08:45:29.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (897793) | LTP=176.52 | BuyRatio=196697.00 | ΔVol=6865 | Buy=196697 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 681985,
+  last_price: 1458.6,
+  last_traded_quantity: 2,
+  average_traded_price: 1456.53,
+  volume_traded: 289980,
+  total_buy_quantity: 102760,
+  total_sell_quantity: 81873,
+  ohlc: { open: 1450.7, high: 1466.4, low: 1450.7, close: 1459.8 },
+  change: -0.08220304151253909,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (681985) | LTP=1458.6 | BuyRatio=10.87 | ΔVol=27027 | Buy=772 | Sell=71
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 978177,
+  last_price: 84.2,
+  last_traded_quantity: 1,
+  average_traded_price: 85.51,
+  volume_traded: 2159,
+  total_buy_quantity: 27434,
+  total_sell_quantity: 6019,
+  ohlc: { open: 88, high: 88, low: 84.1, close: 86.4 },
+  change: -2.5462962962962994,
+  last_trade_time: 2025-12-10T08:30:39.000Z,
+  exchange_timestamp: 2025-12-10T08:45:32.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (978177) | LTP=84.2 | BuyRatio=13.64 | ΔVol=117 | Buy=341 | Sell=25
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 969473,
+  last_price: 258.45,
+  last_traded_quantity: 1,
+  average_traded_price: 258.69,
+  volume_traded: 6298632,
+  total_buy_quantity: 791709,
+  total_sell_quantity: 1474194,
+  ohlc: { open: 258.01, high: 260.37, low: 257.81, close: 257.41 },
+  change: 0.4040247076648007,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (969473) | LTP=258.45 | BuyRatio=8.45 | ΔVol=357410 | Buy=14265 | Sell=1689
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 724225,
+  last_price: 1313.2,
+  last_traded_quantity: 22,
+  average_traded_price: 1320.32,
+  volume_traded: 602080,
+  total_buy_quantity: 172182,
+  total_sell_quantity: 140023,
+  ohlc: { open: 1306.1, high: 1335.1, low: 1305.1, close: 1294.6 },
+  change: 1.4367372161285445,
+  last_trade_time: 2025-12-10T08:45:40.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (724225) | LTP=1313.2 | BuyRatio=4.87 | ΔVol=71966 | Buy=570 | Sell=117
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 492289,
+  last_price: 1000,
+  last_traded_quantity: 5,
+  average_traded_price: 1009.44,
+  volume_traded: 808,
+  total_buy_quantity: 5281,
+  total_sell_quantity: 2452,
+  ohlc: { open: 1006.05, high: 1024.35, low: 1000, close: 1005.4 },
+  change: -0.5370996618261366,
+  last_trade_time: 2025-12-10T08:45:44.000Z,
+  exchange_timestamp: 2025-12-10T08:45:45.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (492289) | LTP=1000 | BuyRatio=17.33 | ΔVol=40 | Buy=208 | Sell=12
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 780289,
+  last_price: 224.3,
+  last_traded_quantity: 15,
+  average_traded_price: 225.87,
+  volume_traded: 916864,
+  total_buy_quantity: 154049,
+  total_sell_quantity: 351952,
+  ohlc: { open: 227.5, high: 228.1, low: 223.63, close: 227.14 },
+  change: -1.2503301928326034,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:47.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (780289) | LTP=224.3 | BuyRatio=4.64 | ΔVol=53322 | Buy=1973 | Sell=425
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 951041,
+  last_price: 329.55,
+  last_traded_quantity: 3,
+  average_traded_price: 332.24,
+  volume_traded: 143439,
+  total_buy_quantity: 71632,
+  total_sell_quantity: 89490,
+  ohlc: { open: 333.05, high: 337.95, low: 327.4, close: 331.75 },
+  change: -0.6631499623210214,
+  last_trade_time: 2025-12-10T08:45:13.000Z,
+  exchange_timestamp: 2025-12-10T08:45:27.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (951041) | LTP=329.55 | BuyRatio=19.86 | ΔVol=17726 | Buy=4231 | Sell=213
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 687873,
+  last_price: 815.1,
+  last_traded_quantity: 3,
+  average_traded_price: 817.45,
+  volume_traded: 54531,
+  total_buy_quantity: 23767,
+  total_sell_quantity: 10551,
+  ohlc: { open: 796, high: 827.75, low: 796, close: 795.5 },
+  change: 2.4638592080452573,
+  last_trade_time: 2025-12-10T08:43:47.000Z,
+  exchange_timestamp: 2025-12-10T08:45:36.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (687873) | LTP=815.1 | BuyRatio=4.52 | ΔVol=5453 | Buy=578 | Sell=128
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 386049,
+  last_price: 629.35,
+  last_traded_quantity: 17,
+  average_traded_price: 631.06,
+  volume_traded: 230133,
+  total_buy_quantity: 28655,
+  total_sell_quantity: 42915,
+  ohlc: { open: 627.65, high: 637.45, low: 625.7, close: 623.2 },
+  change: 0.9868421052631542,
+  last_trade_time: 2025-12-10T08:45:46.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (386049) | LTP=629.35 | BuyRatio=6.15 | ΔVol=18652 | Buy=160 | Sell=26
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 947969,
+  last_price: 352.2,
+  last_traded_quantity: 10,
+  average_traded_price: 354.28,
+  volume_traded: 64189,
+  total_buy_quantity: 35247,
+  total_sell_quantity: 43935,
+  ohlc: { open: 350.3, high: 356.45, low: 350.3, close: 351.6 },
+  change: 0.17064846416381282,
+  last_trade_time: 2025-12-10T08:42:37.000Z,
+  exchange_timestamp: 2025-12-10T08:45:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (947969) | LTP=352.2 | BuyRatio=7.41 | ΔVol=3873 | Buy=674 | Sell=91
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 806145,
+  last_price: 540,
+  last_traded_quantity: 26,
+  average_traded_price: 546.98,
+  volume_traded: 253431,
+  total_buy_quantity: 43344,
+  total_sell_quantity: 45555,
+  ohlc: { open: 549.65, high: 555.5, low: 538.35, close: 546.7 },
+  change: -1.225535028351938,
+  last_trade_time: 2025-12-10T08:45:47.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (806145) | LTP=540 | BuyRatio=7.94 | ΔVol=12533 | Buy=246 | Sell=31
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 183041,
+  last_price: 443.7,
+  last_traded_quantity: 170,
+  average_traded_price: 442.92,
+  volume_traded: 1987,
+  total_buy_quantity: 13901,
+  total_sell_quantity: 12136,
+  ohlc: { open: 442.75, high: 446.75, low: 440, close: 438.7 },
+  change: 1.139731023478459,
+  last_trade_time: 2025-12-10T08:33:25.000Z,
+  exchange_timestamp: 2025-12-10T08:44:55.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (183041) | LTP=443.7 | BuyRatio=5.80 | ΔVol=191 | Buy=174 | Sell=30
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 916225,
+  last_price: 444,
+  last_traded_quantity: 20,
+  average_traded_price: 443.92,
+  volume_traded: 3371,
+  total_buy_quantity: 27572,
+  total_sell_quantity: 9404,
+  ohlc: { open: 445.8, high: 447.05, low: 442, close: 443.6 },
+  change: 0.09017132551847999,
+  last_trade_time: 2025-12-10T08:45:39.000Z,
+  exchange_timestamp: 2025-12-10T08:45:41.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (916225) | LTP=444 | BuyRatio=6.00 | ΔVol=261 | Buy=186 | Sell=31
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 251137,
+  last_price: 202.85,
+  last_traded_quantity: 189,
+  average_traded_price: 204.68,
+  volume_traded: 918915,
+  total_buy_quantity: 77279,
+  total_sell_quantity: 124174,
+  ohlc: { open: 202.8, high: 208.25, low: 201.5, close: 203.03 },
+  change: -0.08865684874156865,
+  last_trade_time: 2025-12-10T08:45:30.000Z,
+  exchange_timestamp: 2025-12-10T08:45:47.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (251137) | LTP=202.85 | BuyRatio=6.35 | ΔVol=101312 | Buy=197 | Sell=31
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1020673,
+  last_price: 270.6,
+  last_traded_quantity: 1,
+  average_traded_price: 274.95,
+  volume_traded: 139879,
+  total_buy_quantity: 81087,
+  total_sell_quantity: 40429,
+  ohlc: { open: 271.3, high: 279.8, low: 270.2, close: 270.5 },
+  change: 0.03696857670980508,
+  last_trade_time: 2025-12-10T08:41:17.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (1020673) | LTP=270.6 | BuyRatio=38.09 | ΔVol=8294 | Buy=6932 | Sell=182
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 592897,
+  last_price: 170.3,
+  last_traded_quantity: 2,
+  average_traded_price: 171.84,
+  volume_traded: 55275,
+  total_buy_quantity: 44733,
+  total_sell_quantity: 33903,
+  ohlc: { open: 171.95, high: 173.76, low: 170.1, close: 172.59 },
+  change: -1.326843965467288,
+  last_trade_time: 2025-12-10T08:45:37.000Z,
+  exchange_timestamp: 2025-12-10T08:45:47.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (592897) | LTP=170.3 | BuyRatio=32.31 | ΔVol=4128 | Buy=1583 | Sell=49
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 382465,
+  last_price: 63.18,
+  last_traded_quantity: 1,
+  average_traded_price: 65.17,
+  volume_traded: 10816642,
+  total_buy_quantity: 362217,
+  total_sell_quantity: 976743,
+  ohlc: { open: 64.15, high: 67.65, low: 63.09, close: 63.67 },
+  change: -0.7695932150149238,
+  last_trade_time: 2025-12-10T08:45:48.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (382465) | LTP=63.18 | BuyRatio=5.13 | ΔVol=546961 | Buy=8045 | Sell=1569
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 838401,
+  last_price: 706.7,
+  last_traded_quantity: 1,
+  average_traded_price: 709.54,
+  volume_traded: 17073,
+  total_buy_quantity: 4270,
+  total_sell_quantity: 6472,
+  ohlc: { open: 699, high: 718.9, low: 699, close: 711.3 },
+  change: -0.6467032194573189,
+  last_trade_time: 2025-12-10T08:42:00.000Z,
+  exchange_timestamp: 2025-12-10T08:45:44.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (838401) | LTP=706.7 | BuyRatio=9.40 | ΔVol=869 | Buy=94 | Sell=10
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 864001,
+  last_price: 255.6,
+  last_traded_quantity: 10,
+  average_traded_price: 255.7,
+  volume_traded: 281838,
+  total_buy_quantity: 93728,
+  total_sell_quantity: 127495,
+  ohlc: { open: 251.5, high: 257.95, low: 250, close: 251.9 },
+  change: 1.4688368400158747,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:47.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (864001) | LTP=255.6 | BuyRatio=4.37 | ΔVol=19752 | Buy=1067 | Sell=244
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 524545,
+  last_price: 943,
+  last_traded_quantity: 32,
+  average_traded_price: 942.58,
+  volume_traded: 1189207,
+  total_buy_quantity: 76304,
+  total_sell_quantity: 163242,
+  ohlc: { open: 920, high: 949.3, low: 918, close: 919.1 },
+  change: 2.600369927102598,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (524545) | LTP=943 | BuyRatio=12.30 | ΔVol=96982 | Buy=3691 | Sell=300
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 254209,
+  last_price: 501.1,
+  last_traded_quantity: 5,
+  average_traded_price: 502.28,
+  volume_traded: 1267,
+  total_buy_quantity: 12086,
+  total_sell_quantity: 7241,
+  ohlc: { open: 510, high: 510, low: 501, close: 499.5 },
+  change: 0.32032032032032487,
+  last_trade_time: 2025-12-10T08:41:30.000Z,
+  exchange_timestamp: 2025-12-10T08:43:47.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (254209) | LTP=501.1 | BuyRatio=4.76 | ΔVol=273 | Buy=195 | Sell=41
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 297473,
+  last_price: 8.03,
+  last_traded_quantity: 5,
+  average_traded_price: 8.05,
+  volume_traded: 316353,
+  total_buy_quantity: 413069,
+  total_sell_quantity: 238772,
+  ohlc: { open: 7.74, high: 8.2, low: 7.74, close: 7.74 },
+  change: 3.746770025839782,
+  last_trade_time: 2025-12-10T08:45:29.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (297473) | LTP=8.03 | BuyRatio=16.65 | ΔVol=47988 | Buy=141985 | Sell=8526
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 306177,
+  last_price: 223.3,
+  last_traded_quantity: 1,
+  average_traded_price: 224.12,
+  volume_traded: 222482,
+  total_buy_quantity: 74029,
+  total_sell_quantity: 61565,
+  ohlc: { open: 221.91, high: 225.69, low: 221.6, close: 221.91 },
+  change: 0.6263800639899125,
+  last_trade_time: 2025-12-10T08:45:32.000Z,
+  exchange_timestamp: 2025-12-10T08:45:47.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (306177) | LTP=223.3 | BuyRatio=4.67 | ΔVol=11894 | Buy=392 | Sell=84
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 787969,
+  last_price: 470.15,
+  last_traded_quantity: 1,
+  average_traded_price: 470.62,
+  volume_traded: 12463,
+  total_buy_quantity: 22801,
+  total_sell_quantity: 8391,
+  ohlc: { open: 471.05, high: 473, low: 470, close: 470.45 },
+  change: -0.06376873206504652,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:49.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (787969) | LTP=470.15 | BuyRatio=10.63 | ΔVol=823 | Buy=2265 | Sell=213
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 225537,
+  last_price: 1250.9,
+  last_traded_quantity: 2,
+  average_traded_price: 1252.98,
+  volume_traded: 1123732,
+  total_buy_quantity: 167518,
+  total_sell_quantity: 167730,
+  ohlc: { open: 1249.3, high: 1262.1, low: 1246.8, close: 1246.2 },
+  change: 0.3771465254373331,
+  last_trade_time: 2025-12-10T08:45:45.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (225537) | LTP=1250.9 | BuyRatio=4.13 | ΔVol=203455 | Buy=1227 | Sell=297
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1034497,
+  last_price: 205,
+  last_traded_quantity: 271,
+  average_traded_price: 205.12,
+  volume_traded: 6053,
+  total_buy_quantity: 18076,
+  total_sell_quantity: 1935,
+  ohlc: { open: 203.8, high: 207.6, low: 203.6, close: 203.14 },
+  change: 0.9156246923304193,
+  last_trade_time: 2025-12-10T08:21:11.000Z,
+  exchange_timestamp: 2025-12-10T08:29:44.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (1034497) | LTP=205 | BuyRatio=5.07 | ΔVol=307 | Buy=71 | Sell=14
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1034241,
+  last_price: 1549.9,
+  last_traded_quantity: 1,
+  average_traded_price: 1596.69,
+  volume_traded: 15154,
+  total_buy_quantity: 7442,
+  total_sell_quantity: 6320,
+  ohlc: { open: 1601, high: 1634.7, low: 1546.1, close: 1609 },
+  change: -3.6730888750776822,
+  last_trade_time: 2025-12-10T08:45:08.000Z,
+  exchange_timestamp: 2025-12-10T08:45:42.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (1034241) | LTP=1549.9 | BuyRatio=7.22 | ΔVol=6628 | Buy=130 | Sell=18
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 425729,
+  last_price: 726.05,
+  last_traded_quantity: 5,
+  average_traded_price: 729.99,
+  volume_traded: 7427,
+  total_buy_quantity: 15473,
+  total_sell_quantity: 5146,
+  ohlc: { open: 727.1, high: 735.5, low: 724, close: 734 },
+  change: -1.083106267029979,
+  last_trade_time: 2025-12-10T08:36:06.000Z,
+  exchange_timestamp: 2025-12-10T08:43:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (425729) | LTP=726.05 | BuyRatio=8.00 | ΔVol=367 | Buy=200 | Sell=25
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 403457,
+  last_price: 8198,
+  last_traded_quantity: 1,
+  average_traded_price: 8289.4,
+  volume_traded: 14758,
+  total_buy_quantity: 3013,
+  total_sell_quantity: 6009,
+  ohlc: { open: 8345, high: 8399, low: 8180, close: 8351 },
+  change: -1.8321159142617651,
+  last_trade_time: 2025-12-10T08:45:43.000Z,
+  exchange_timestamp: 2025-12-10T08:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (403457) | LTP=8198 | BuyRatio=9.85 | ΔVol=2553 | Buy=128 | Sell=13
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 794369,
+  last_price: 25895,
+  last_traded_quantity: 1,
+  average_traded_price: 25891.5,
+  volume_traded: 21382,
+  total_buy_quantity: 5198,
+  total_sell_quantity: 2667,
+  ohlc: { open: 26000, high: 26095, low: 25645, close: 26100 },
+  change: -0.7854406130268199,
+  last_trade_time: 2025-12-10T08:45:16.000Z,
+  exchange_timestamp: 2025-12-10T08:45:49.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (794369) | LTP=25895 | BuyRatio=4.30 | ΔVol=6552 | Buy=116 | Sell=27
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1095425,
+  last_price: 686.4,
+  last_traded_quantity: 1,
+  average_traded_price: 693.73,
+  volume_traded: 1330,
+  total_buy_quantity: 14504,
+  total_sell_quantity: 3094,
+  ohlc: { open: 690, high: 700.3, low: 686, close: 690.8 },
+  change: -0.6369426751592324,
+  last_trade_time: 2025-12-10T08:43:47.000Z,
+  exchange_timestamp: 2025-12-10T08:45:43.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (1095425) | LTP=686.4 | BuyRatio=9.27 | ΔVol=159 | Buy=204 | Sell=22
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 408065,
+  last_price: 1585.7,
+  last_traded_quantity: 9,
+  average_traded_price: 1594.7,
+  volume_traded: 3101584,
+  total_buy_quantity: 255694,
+  total_sell_quantity: 425220,
+  ohlc: { open: 1608, high: 1608, low: 1585.3, close: 1599 },
+  change: -0.8317698561600972,
+  last_trade_time: 2025-12-10T08:45:49.000Z,
+  exchange_timestamp: 2025-12-10T08:45:49.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (408065) | LTP=1585.7 | BuyRatio=8.05 | ΔVol=525765 | Buy=7643 | Sell=949
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 854785,
+  last_price: 4673.1,
+  last_traded_quantity: 1,
+  average_traded_price: 4701.71,
+  volume_traded: 7215,
+  total_buy_quantity: 6101,
+  total_sell_quantity: 8468,
+  ohlc: { open: 4697.3, high: 4736, low: 4670, close: 4722.8 },
+  change: -1.05234183111713,
+  last_trade_time: 2025-12-10T08:45:46.000Z,
+  exchange_timestamp: 2025-12-10T08:45:48.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (854785) | LTP=4673.1 | BuyRatio=40.56 | ΔVol=672 | Buy=365 | Sell=9
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 463617,
+  last_price: 132.5,
+  last_traded_quantity: 4,
+  average_traded_price: 133.21,
+  volume_traded: 4375,
+  total_buy_quantity: 7342,
+  total_sell_quantity: 3951,
+  ohlc: { open: 133.05, high: 136.98, low: 132.5, close: 131.92 },
+  change: 0.4396604002425808,
+  last_trade_time: 2025-12-10T08:34:12.000Z,
+  exchange_timestamp: 2025-12-10T08:44:40.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (463617) | LTP=132.5 | BuyRatio=18.78 | ΔVol=469 | Buy=864 | Sell=46
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 859393,
+  last_price: 8.69,
+  last_traded_quantity: 1,
+  average_traded_price: 8.58,
+  volume_traded: 6755,
+  total_buy_quantity: 59657,
+  total_sell_quantity: 43007,
+  ohlc: { open: 8.84, high: 8.84, low: 8.3, close: 8.34 },
+  change: 4.196642685851315,
+  last_trade_time: 2025-12-10T08:35:13.000Z,
+  exchange_timestamp: 2025-12-10T08:45:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (859393) | LTP=8.69 | BuyRatio=8.80 | ΔVol=1327 | Buy=6247 | Sell=710
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 719105,
+  last_price: 38.4,
+  last_traded_quantity: 144,
+  average_traded_price: 36.22,
+  volume_traded: 278048,
+  total_buy_quantity: 155484,
+  total_sell_quantity: 0,
+  ohlc: { open: 32.43, high: 38.4, low: 32.14, close: 32 },
+  change: 19.999999999999996,
+  last_trade_time: 2025-12-10T08:45:37.000Z,
+  exchange_timestamp: 2025-12-10T08:45:43.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:15:50 | undefined (719105) | LTP=38.4 | BuyRatio=49269.00 | ΔVol=15132 | Buy=49269 | Sell=0
+❌ WS Error ErrorEvent {
+  target: WebSocket {
+    _events: [Object: null prototype] {
+      open: [Function],
+      message: [Function],
+      error: [Function],
+      close: [Function]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    readyState: 2,
+    protocol: '',
+    _binaryType: 'arraybuffer',
+    _closeFrameReceived: false,
+    _closeFrameSent: false,
+    _closeMessage: '',
+    _closeTimer: null,
+    _closeCode: 1006,
+    _extensions: {},
+    _receiver: null,
+    _sender: null,
+    _socket: null,
+    _isServer: false,
+    _redirects: 0,
+    url: 'wss://ws.kite.trade/?api_key=viaavoiaabnw7u2c&access_token=t8jbZaDIM80SnEbrFfDiEO8m7CK0OXol&uid=1765357427182',
+    _req: null,
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false
+  },
+  type: 'error',
+  message: 'getaddrinfo ENOTFOUND ws.kite.trade',
+  error: Error: getaddrinfo ENOTFOUND ws.kite.trade
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ws.kite.trade'
+  }
+}
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 909569,
+  last_price: 21,
+  last_traded_quantity: 470,
+  average_traded_price: 21,
+  volume_traded: 5633,
+  total_buy_quantity: 9965,
+  total_sell_quantity: 18161,
+  ohlc: { open: 20.65, high: 21.4, low: 20.65, close: 21.05 },
+  change: -0.2375296912114048,
+  last_trade_time: 2025-12-10T08:46:40.000Z,
+  exchange_timestamp: 2025-12-10T09:05:52.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (909569) | LTP=21 | BuyRatio=18.12 | ΔVol=470 | Buy=4530 | Sell=250
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1054209,
+  last_price: 73.76,
+  last_traded_quantity: 122,
+  average_traded_price: 74.08,
+  volume_traded: 1661,
+  total_buy_quantity: 4518,
+  total_sell_quantity: 1084,
+  ohlc: { open: 74.28, high: 74.99, low: 73.6, close: 74.28 },
+  change: -0.7000538502961713,
+  last_trade_time: 2025-12-10T09:09:35.000Z,
+  exchange_timestamp: 2025-12-10T09:14:38.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (1054209) | LTP=73.76 | BuyRatio=6.02 | ΔVol=178 | Buy=1161 | Sell=193
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 692481,
+  last_price: 301.2,
+  last_traded_quantity: 12,
+  average_traded_price: 306.25,
+  volume_traded: 459926,
+  total_buy_quantity: 106379,
+  total_sell_quantity: 138493,
+  ohlc: { open: 313, high: 314.05, low: 301, close: 311 },
+  change: -3.151125401929264,
+  last_trade_time: 2025-12-10T09:17:17.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (692481) | LTP=301.2 | BuyRatio=7.30 | ΔVol=39957 | Buy=5797 | Sell=794
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 681985,
+  last_price: 1460.7,
+  last_traded_quantity: 2,
+  average_traded_price: 1456.81,
+  volume_traded: 317678,
+  total_buy_quantity: 105053,
+  total_sell_quantity: 73064,
+  ohlc: { open: 1450.7, high: 1466.4, low: 1450.7, close: 1459.8 },
+  change: 0.0616522811344082,
+  last_trade_time: 2025-12-10T09:17:15.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (681985) | LTP=1460.7 | BuyRatio=49.82 | ΔVol=27698 | Buy=1943 | Sell=39
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 715265,
+  last_price: 151.09,
+  last_traded_quantity: 8,
+  average_traded_price: 151.99,
+  volume_traded: 22125,
+  total_buy_quantity: 13487,
+  total_sell_quantity: 15700,
+  ohlc: { open: 150.05, high: 154, low: 149.5, close: 151.2 },
+  change: -0.07275132275131298,
+  last_trade_time: 2025-12-10T09:11:57.000Z,
+  exchange_timestamp: 2025-12-10T09:16:36.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (715265) | LTP=151.09 | BuyRatio=4.93 | ΔVol=11363 | Buy=207 | Sell=42
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 859393,
+  last_price: 8.32,
+  last_traded_quantity: 3,
+  average_traded_price: 8.54,
+  volume_traded: 8139,
+  total_buy_quantity: 58773,
+  total_sell_quantity: 43374,
+  ohlc: { open: 8.84, high: 8.84, low: 8.3, close: 8.34 },
+  change: -0.23980815347721313,
+  last_trade_time: 2025-12-10T09:13:15.000Z,
+  exchange_timestamp: 2025-12-10T09:16:27.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (859393) | LTP=8.32 | BuyRatio=11.80 | ΔVol=1384 | Buy=6065 | Sell=514
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 958465,
+  last_price: 4359,
+  last_traded_quantity: 22,
+  average_traded_price: 4371.37,
+  volume_traded: 3730,
+  total_buy_quantity: 3141,
+  total_sell_quantity: 2697,
+  ohlc: { open: 4369.8, high: 4419, low: 4337.1, close: 4336.7 },
+  change: 0.514215878432914,
+  last_trade_time: 2025-12-10T09:11:43.000Z,
+  exchange_timestamp: 2025-12-10T09:16:53.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (958465) | LTP=4359 | BuyRatio=13.44 | ΔVol=245 | Buy=121 | Sell=9
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 945665,
+  last_price: 1427.9,
+  last_traded_quantity: 36,
+  average_traded_price: 1432.01,
+  volume_traded: 4200,
+  total_buy_quantity: 12748,
+  total_sell_quantity: 4056,
+  ohlc: { open: 1419, high: 1450, low: 1418.5, close: 1422.1 },
+  change: 0.40784754939878926,
+  last_trade_time: 2025-12-10T09:14:39.000Z,
+  exchange_timestamp: 2025-12-10T09:17:14.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (945665) | LTP=1427.9 | BuyRatio=4.60 | ΔVol=550 | Buy=46 | Sell=10
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 254209,
+  last_price: 510.3,
+  last_traded_quantity: 10,
+  average_traded_price: 507.23,
+  volume_traded: 3910,
+  total_buy_quantity: 12358,
+  total_sell_quantity: 7105,
+  ohlc: { open: 510, high: 516.85, low: 501, close: 499.5 },
+  change: 2.1621621621621645,
+  last_trade_time: 2025-12-10T09:14:22.000Z,
+  exchange_timestamp: 2025-12-10T09:17:09.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (254209) | LTP=510.3 | BuyRatio=4.58 | ΔVol=2643 | Buy=366 | Sell=80
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 351233,
+  last_price: 420.35,
+  last_traded_quantity: 5,
+  average_traded_price: 419.36,
+  volume_traded: 1733,
+  total_buy_quantity: 18654,
+  total_sell_quantity: 1608,
+  ohlc: { open: 410, high: 424.3, low: 410, close: 412.5 },
+  change: 1.9030303030303086,
+  last_trade_time: 2025-12-10T08:49:49.000Z,
+  exchange_timestamp: 2025-12-10T09:17:04.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (351233) | LTP=420.35 | BuyRatio=10.67 | ΔVol=180 | Buy=352 | Sell=33
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 734209,
+  last_price: 92.15,
+  last_traded_quantity: 11,
+  average_traded_price: 93.88,
+  volume_traded: 637112,
+  total_buy_quantity: 100749,
+  total_sell_quantity: 212280,
+  ohlc: { open: 94.21, high: 96.42, low: 92, close: 94.21 },
+  change: -2.1866043944379454,
+  last_trade_time: 2025-12-10T09:16:53.000Z,
+  exchange_timestamp: 2025-12-10T09:17:03.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (734209) | LTP=92.15 | BuyRatio=15.55 | ΔVol=79395 | Buy=8754 | Sell=563
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 573697,
+  last_price: 43.85,
+  last_traded_quantity: 76,
+  average_traded_price: 43.79,
+  volume_traded: 124,
+  total_buy_quantity: 30276,
+  total_sell_quantity: 4583,
+  ohlc: { open: 44, high: 44, low: 43.65, close: 44.04 },
+  change: -0.4314259763850993,
+  last_trade_time: 2025-12-10T08:46:18.000Z,
+  exchange_timestamp: 2025-12-10T09:08:41.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (573697) | LTP=43.85 | BuyRatio=5.00 | ΔVol=86 | Buy=580 | Sell=116
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 336641,
+  last_price: 1981.1,
+  last_traded_quantity: 5,
+  average_traded_price: 2003.57,
+  volume_traded: 8358,
+  total_buy_quantity: 9975,
+  total_sell_quantity: 3915,
+  ohlc: { open: 1983.5, high: 2026.4, low: 1977.8, close: 1969.7 },
+  change: 0.5787683403563925,
+  last_trade_time: 2025-12-10T09:15:50.000Z,
+  exchange_timestamp: 2025-12-10T09:17:17.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (336641) | LTP=1981.1 | BuyRatio=23.80 | ΔVol=951 | Buy=238 | Sell=10
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 441857,
+  last_price: 1805.6,
+  last_traded_quantity: 1,
+  average_traded_price: 1803.55,
+  volume_traded: 278016,
+  total_buy_quantity: 19630,
+  total_sell_quantity: 10036,
+  ohlc: { open: 1806.8, high: 1823, low: 1775.9, close: 1799 },
+  change: 0.36687048360199603,
+  last_trade_time: 2025-12-10T09:17:16.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (441857) | LTP=1805.6 | BuyRatio=93.65 | ΔVol=115242 | Buy=5057 | Sell=54
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 341249,
+  last_price: 990.3,
+  last_traded_quantity: 2,
+  average_traded_price: 991.2,
+  volume_traded: 11795076,
+  total_buy_quantity: 463619,
+  total_sell_quantity: 990576,
+  ohlc: { open: 997.5, high: 998.5, low: 985.3, close: 997.1 },
+  change: -0.6819777354327619,
+  last_trade_time: 2025-12-10T09:17:18.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (341249) | LTP=990.3 | BuyRatio=4.98 | ΔVol=1399056 | Buy=22965 | Sell=4612
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 891137,
+  last_price: 139.02,
+  last_traded_quantity: 4,
+  average_traded_price: 139.67,
+  volume_traded: 327764,
+  total_buy_quantity: 102818,
+  total_sell_quantity: 66868,
+  ohlc: { open: 140, high: 141.45, low: 138.5, close: 139.35 },
+  change: -0.23681377825617803,
+  last_trade_time: 2025-12-10T09:16:15.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (891137) | LTP=139.02 | BuyRatio=18.57 | ΔVol=19261 | Buy=1114 | Sell=60
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 563969,
+  last_price: 335.06,
+  last_traded_quantity: 2,
+  average_traded_price: 335.46,
+  volume_traded: 101312,
+  total_buy_quantity: 72070,
+  total_sell_quantity: 34220,
+  ohlc: { open: 335.98, high: 336, low: 334.95, close: 334.95 },
+  change: 0.032840722495898984,
+  last_trade_time: 2025-12-10T09:17:08.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (563969) | LTP=335.06 | BuyRatio=9.18 | ΔVol=10310 | Buy=1258 | Sell=137
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 258049,
+  last_price: 815.15,
+  last_traded_quantity: 1,
+  average_traded_price: 824.93,
+  volume_traded: 100066,
+  total_buy_quantity: 17584,
+  total_sell_quantity: 33434,
+  ohlc: { open: 810, high: 836.9, low: 805, close: 811.8 },
+  change: 0.41266321754126917,
+  last_trade_time: 2025-12-10T09:17:01.000Z,
+  exchange_timestamp: 2025-12-10T09:17:07.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (258049) | LTP=815.15 | BuyRatio=29.14 | ΔVol=7972 | Buy=1049 | Sell=36
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 558337,
+  last_price: 36415,
+  last_traded_quantity: 1,
+  average_traded_price: 36620.22,
+  volume_traded: 5769,
+  total_buy_quantity: 4176,
+  total_sell_quantity: 4200,
+  ohlc: { open: 36850, high: 36950, low: 36415, close: 36780 },
+  change: -0.9923871669385536,
+  last_trade_time: 2025-12-10T09:17:13.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (558337) | LTP=36415 | BuyRatio=4.43 | ΔVol=1035 | Buy=102 | Sell=23
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1039361,
+  last_price: 2.61,
+  last_traded_quantity: 1000,
+  average_traded_price: 2.6,
+  volume_traded: 24696,
+  total_buy_quantity: 252410,
+  total_sell_quantity: 0,
+  ohlc: { open: 2.6, high: 2.61, low: 2.6, close: 2.38 },
+  change: 9.663865546218489,
+  last_trade_time: 2025-12-10T09:12:14.000Z,
+  exchange_timestamp: 2025-12-10T09:16:12.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (1039361) | LTP=2.61 | BuyRatio=233512.00 | ΔVol=1850 | Buy=233512 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1020673,
+  last_price: 268.7,
+  last_traded_quantity: 50,
+  average_traded_price: 274.01,
+  volume_traded: 168909,
+  total_buy_quantity: 74421,
+  total_sell_quantity: 47364,
+  ohlc: { open: 271.3, high: 279.8, low: 268.35, close: 270.5 },
+  change: -0.6654343807763443,
+  last_trade_time: 2025-12-10T09:17:07.000Z,
+  exchange_timestamp: 2025-12-10T09:17:11.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (1020673) | LTP=268.7 | BuyRatio=4.49 | ΔVol=29030 | Buy=471 | Sell=105
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 147969,
+  last_price: 184.98,
+  last_traded_quantity: 3575,
+  average_traded_price: 186.03,
+  volume_traded: 28981,
+  total_buy_quantity: 17916,
+  total_sell_quantity: 24240,
+  ohlc: { open: 187.2, high: 190.09, low: 180, close: 186.22 },
+  change: -0.66587906776931,
+  last_trade_time: 2025-12-10T09:16:30.000Z,
+  exchange_timestamp: 2025-12-10T09:16:32.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (147969) | LTP=184.98 | BuyRatio=12.04 | ΔVol=4429 | Buy=1986 | Sell=165
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 369153,
+  last_price: 4253.8,
+  last_traded_quantity: 1,
+  average_traded_price: 4290.1,
+  volume_traded: 18404,
+  total_buy_quantity: 4822,
+  total_sell_quantity: 4249,
+  ohlc: { open: 4368, high: 4368, low: 4250, close: 4345.4 },
+  change: -2.107976250747905,
+  last_trade_time: 2025-12-10T09:17:17.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (369153) | LTP=4253.8 | BuyRatio=16.23 | ΔVol=2719 | Buy=211 | Sell=13
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 428033,
+  last_price: 767.55,
+  last_traded_quantity: 1,
+  average_traded_price: 774.56,
+  volume_traded: 86020,
+  total_buy_quantity: 24590,
+  total_sell_quantity: 11098,
+  ohlc: { open: 766.85, high: 790, low: 760.75, close: 763.55 },
+  change: 0.5238687708728964,
+  last_trade_time: 2025-12-10T09:17:15.000Z,
+  exchange_timestamp: 2025-12-10T09:17:17.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (428033) | LTP=767.55 | BuyRatio=4.40 | ΔVol=5915 | Buy=185 | Sell=42
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 842497,
+  last_price: 161.26,
+  last_traded_quantity: 32,
+  average_traded_price: 161.91,
+  volume_traded: 2836,
+  total_buy_quantity: 42348,
+  total_sell_quantity: 11572,
+  ohlc: { open: 160, high: 163.39, low: 160, close: 161.93 },
+  change: -0.41375903168036554,
+  last_trade_time: 2025-12-10T09:13:54.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (842497) | LTP=161.26 | BuyRatio=5.33 | ΔVol=480 | Buy=725 | Sell=136
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 969473,
+  last_price: 258.27,
+  last_traded_quantity: 1,
+  average_traded_price: 258.67,
+  volume_traded: 6770333,
+  total_buy_quantity: 771134,
+  total_sell_quantity: 1453824,
+  ohlc: { open: 258.01, high: 260.37, low: 257.81, close: 257.41 },
+  change: 0.33409735441511856,
+  last_trade_time: 2025-12-10T09:17:18.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (969473) | LTP=258.27 | BuyRatio=12.78 | ΔVol=471701 | Buy=17228 | Sell=1348
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 291585,
+  last_price: 163.13,
+  last_traded_quantity: 77,
+  average_traded_price: 163.94,
+  volume_traded: 29087,
+  total_buy_quantity: 59443,
+  total_sell_quantity: 34402,
+  ohlc: { open: 165.7, high: 165.79, low: 162.9, close: 164.51 },
+  change: -0.8388547808643825,
+  last_trade_time: 2025-12-10T09:15:57.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (291585) | LTP=163.13 | BuyRatio=18.30 | ΔVol=2149 | Buy=3642 | Sell=199
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 189185,
+  last_price: 2295.1,
+  last_traded_quantity: 2,
+  average_traded_price: 2324.04,
+  volume_traded: 161674,
+  total_buy_quantity: 12437,
+  total_sell_quantity: 38530,
+  ohlc: { open: 2375, high: 2375, low: 2295, close: 2368.1 },
+  change: -3.0826400912123644,
+  last_trade_time: 2025-12-10T09:17:13.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (189185) | LTP=2295.1 | BuyRatio=5.21 | ΔVol=12185 | Buy=297 | Sell=57
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 389377,
+  last_price: 1061.2,
+  last_traded_quantity: 1,
+  average_traded_price: 1060.55,
+  volume_traded: 71339,
+  total_buy_quantity: 24357,
+  total_sell_quantity: 27190,
+  ohlc: { open: 1052, high: 1075, low: 1035.6, close: 1056.5 },
+  change: 0.4448651206814998,
+  last_trade_time: 2025-12-10T09:16:54.000Z,
+  exchange_timestamp: 2025-12-10T09:17:16.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (389377) | LTP=1061.2 | BuyRatio=5.57 | ΔVol=4836 | Buy=379 | Sell=68
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 193793,
+  last_price: 4355.4,
+  last_traded_quantity: 1,
+  average_traded_price: 4353.12,
+  volume_traded: 39442,
+  total_buy_quantity: 8835,
+  total_sell_quantity: 5422,
+  ohlc: { open: 4414.9, high: 4443, low: 4306, close: 4398.2 },
+  change: -0.9731253694693326,
+  last_trade_time: 2025-12-10T09:17:15.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (193793) | LTP=4355.4 | BuyRatio=10.13 | ΔVol=5076 | Buy=81 | Sell=8
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 667137,
+  last_price: 160.99,
+  last_traded_quantity: 1,
+  average_traded_price: 164.21,
+  volume_traded: 1815396,
+  total_buy_quantity: 131642,
+  total_sell_quantity: 660963,
+  ohlc: { open: 165.6, high: 166.88, low: 160.9, close: 164.9 },
+  change: -2.3711340206185545,
+  last_trade_time: 2025-12-10T09:17:15.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (667137) | LTP=160.99 | BuyRatio=41.00 | ΔVol=103636 | Buy=5699 | Sell=139
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 378881,
+  last_price: 123.02,
+  last_traded_quantity: 88,
+  average_traded_price: 124.06,
+  volume_traded: 4691,
+  total_buy_quantity: 28847,
+  total_sell_quantity: 12682,
+  ohlc: { open: 124.85, high: 127.59, low: 122.86, close: 123.28 },
+  change: -0.21090201168073094,
+  last_trade_time: 2025-12-10T09:06:51.000Z,
+  exchange_timestamp: 2025-12-10T09:15:32.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (378881) | LTP=123.02 | BuyRatio=5.53 | ΔVol=450 | Buy=1068 | Sell=193
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 415745,
+  last_price: 162.69,
+  last_traded_quantity: 1,
+  average_traded_price: 164.64,
+  volume_traded: 9471583,
+  total_buy_quantity: 1013519,
+  total_sell_quantity: 1879046,
+  ohlc: { open: 163.25, high: 166.49, low: 162.58, close: 163.01 },
+  change: -0.19630697503220243,
+  last_trade_time: 2025-12-10T09:17:16.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (415745) | LTP=162.69 | BuyRatio=4.89 | ΔVol=535439 | Buy=5283 | Sell=1080
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 897793,
+  last_price: 176.52,
+  last_traded_quantity: 15,
+  average_traded_price: 176.51,
+  volume_traded: 132341,
+  total_buy_quantity: 282902,
+  total_sell_quantity: 0,
+  ohlc: { open: 176.52, high: 176.52, low: 176, close: 176.2 },
+  change: 0.18161180476732214,
+  last_trade_time: 2025-12-10T09:16:40.000Z,
+  exchange_timestamp: 2025-12-10T09:17:15.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (897793) | LTP=176.52 | BuyRatio=190964.00 | ΔVol=12232 | Buy=190964 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 923649,
+  last_price: 148.05,
+  last_traded_quantity: 100,
+  average_traded_price: 148.2,
+  volume_traded: 2871,
+  total_buy_quantity: 53737,
+  total_sell_quantity: 9899,
+  ohlc: { open: 148.65, high: 148.78, low: 147.92, close: 148.27 },
+  change: -0.14837795912861593,
+  last_trade_time: 2025-12-10T09:17:13.000Z,
+  exchange_timestamp: 2025-12-10T09:17:15.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (923649) | LTP=148.05 | BuyRatio=6.91 | ΔVol=156 | Buy=52986 | Sell=7671
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 787969,
+  last_price: 470.05,
+  last_traded_quantity: 1,
+  average_traded_price: 470.59,
+  volume_traded: 13283,
+  total_buy_quantity: 25008,
+  total_sell_quantity: 9084,
+  ohlc: { open: 471.05, high: 473, low: 470, close: 470.45 },
+  change: -0.08502497608672065,
+  last_trade_time: 2025-12-10T09:13:35.000Z,
+  exchange_timestamp: 2025-12-10T09:16:12.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (787969) | LTP=470.05 | BuyRatio=5.37 | ΔVol=820 | Buy=2705 | Sell=504
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 981505,
+  last_price: 9904,
+  last_traded_quantity: 4,
+  average_traded_price: 9957.67,
+  volume_traded: 8633,
+  total_buy_quantity: 2199,
+  total_sell_quantity: 2269,
+  ohlc: { open: 10047, high: 10079, low: 9850, close: 9968 },
+  change: -0.6420545746388443,
+  last_trade_time: 2025-12-10T09:16:56.000Z,
+  exchange_timestamp: 2025-12-10T09:17:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (981505) | LTP=9904 | BuyRatio=5.63 | ΔVol=927 | Buy=45 | Sell=8
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 635137,
+  last_price: 274.4,
+  last_traded_quantity: 2,
+  average_traded_price: 278.52,
+  volume_traded: 31727,
+  total_buy_quantity: 20395,
+  total_sell_quantity: 14442,
+  ohlc: { open: 280.2, high: 287.65, low: 272.85, close: 280.85 },
+  change: -2.296599608331866,
+  last_trade_time: 2025-12-10T09:17:09.000Z,
+  exchange_timestamp: 2025-12-10T09:17:14.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (635137) | LTP=274.4 | BuyRatio=6.93 | ΔVol=8025 | Buy=312 | Sell=45
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 655873,
+  last_price: 211.8,
+  last_traded_quantity: 5,
+  average_traded_price: 212.56,
+  volume_traded: 35979,
+  total_buy_quantity: 69263,
+  total_sell_quantity: 39135,
+  ohlc: { open: 211.15, high: 214.4, low: 210.84, close: 213.07 },
+  change: -0.59604824705495,
+  last_trade_time: 2025-12-10T09:17:00.000Z,
+  exchange_timestamp: 2025-12-10T09:17:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (655873) | LTP=211.8 | BuyRatio=4.62 | ΔVol=2613 | Buy=208 | Sell=45
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 665089,
+  last_price: 50.6,
+  last_traded_quantity: 306,
+  average_traded_price: 50.69,
+  volume_traded: 12078,
+  total_buy_quantity: 18668,
+  total_sell_quantity: 21769,
+  ohlc: { open: 51.86, high: 51.99, low: 49.91, close: 51.2 },
+  change: -1.1718750000000027,
+  last_trade_time: 2025-12-10T09:15:53.000Z,
+  exchange_timestamp: 2025-12-10T09:17:01.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (665089) | LTP=50.6 | BuyRatio=6.01 | ΔVol=7514 | Buy=523 | Sell=87
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 183041,
+  last_price: 444.15,
+  last_traded_quantity: 1,
+  average_traded_price: 443.11,
+  volume_traded: 2421,
+  total_buy_quantity: 14568,
+  total_sell_quantity: 12127,
+  ohlc: { open: 442.75, high: 446.75, low: 440, close: 438.7 },
+  change: 1.2423068155915178,
+  last_trade_time: 2025-12-10T09:16:27.000Z,
+  exchange_timestamp: 2025-12-10T09:17:02.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (183041) | LTP=444.15 | BuyRatio=29.00 | ΔVol=434 | Buy=145 | Sell=5
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 857089,
+  last_price: 259.7,
+  last_traded_quantity: 18,
+  average_traded_price: 259.14,
+  volume_traded: 81033,
+  total_buy_quantity: 65471,
+  total_sell_quantity: 72478,
+  ohlc: { open: 253.6, high: 262, low: 253.6, close: 256.15 },
+  change: 1.3859066952957297,
+  last_trade_time: 2025-12-10T09:16:11.000Z,
+  exchange_timestamp: 2025-12-10T09:16:53.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (857089) | LTP=259.7 | BuyRatio=4.45 | ΔVol=11064 | Buy=178 | Sell=40
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 605441,
+  last_price: 150.15,
+  last_traded_quantity: 250,
+  average_traded_price: 148.92,
+  volume_traded: 3500,
+  total_buy_quantity: 2500,
+  total_sell_quantity: 0,
+  ohlc: { open: 150.15, high: 150.15, low: 145.5, close: 143 },
+  change: 5.0000000000000036,
+  last_trade_time: 2025-12-10T09:16:18.000Z,
+  exchange_timestamp: 2025-12-10T09:16:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:21 | undefined (605441) | LTP=150.15 | BuyRatio=1750.00 | ΔVol=250 | Buy=1750 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 842497,
+  last_price: 161.26,
+  last_traded_quantity: 32,
+  average_traded_price: 161.87,
+  volume_traded: 3036,
+  total_buy_quantity: 42223,
+  total_sell_quantity: 11572,
+  ohlc: { open: 160, high: 163.39, low: 160, close: 161.93 },
+  change: -0.41375903168036554,
+  last_trade_time: 2025-12-10T09:17:18.000Z,
+  exchange_timestamp: 2025-12-10T09:17:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:22 | undefined (842497) | LTP=161.26 | BuyRatio=4.93 | ΔVol=200 | Buy=670 | Sell=136
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 954113,
+  last_price: 13.82,
+  last_traded_quantity: 323,
+  average_traded_price: 13.95,
+  volume_traded: 11062,
+  total_buy_quantity: 61208,
+  total_sell_quantity: 46333,
+  ohlc: { open: 13.87, high: 14.09, low: 13.82, close: 13.86 },
+  change: -0.2886002886002825,
+  last_trade_time: 2025-12-10T09:17:22.000Z,
+  exchange_timestamp: 2025-12-10T09:17:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 14:47:23 | undefined (954113) | LTP=13.82 | BuyRatio=6.29 | ΔVol=846 | Buy=7999 | Sell=1272
+❌ WS Error ErrorEvent {
+  target: WebSocket {
+    _events: [Object: null prototype] {
+      open: [Function],
+      message: [Function],
+      error: [Function],
+      close: [Function]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    readyState: 2,
+    protocol: '',
+    _binaryType: 'arraybuffer',
+    _closeFrameReceived: false,
+    _closeFrameSent: false,
+    _closeMessage: '',
+    _closeTimer: null,
+    _closeCode: 1006,
+    _extensions: {},
+    _receiver: null,
+    _sender: null,
+    _socket: null,
+    _isServer: false,
+    _redirects: 0,
+    url: 'wss://ws.kite.trade/?api_key=viaavoiaabnw7u2c&access_token=t8jbZaDIM80SnEbrFfDiEO8m7CK0OXol&uid=1765358263876',
+    _req: null,
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false
+  },
+  type: 'error',
+  message: 'getaddrinfo ENOTFOUND ws.kite.trade',
+  error: Error: getaddrinfo ENOTFOUND ws.kite.trade
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ws.kite.trade'
+  }
+}
+❌ WS Error ErrorEvent {
+  target: WebSocket {
+    _events: [Object: null prototype] {
+      open: [Function],
+      message: [Function],
+      error: [Function],
+      close: [Function]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    readyState: 2,
+    protocol: '',
+    _binaryType: 'arraybuffer',
+    _closeFrameReceived: false,
+    _closeFrameSent: false,
+    _closeMessage: '',
+    _closeTimer: null,
+    _closeCode: 1006,
+    _extensions: {},
+    _receiver: null,
+    _sender: null,
+    _socket: null,
+    _isServer: false,
+    _redirects: 0,
+    url: 'wss://ws.kite.trade/?api_key=viaavoiaabnw7u2c&access_token=t8jbZaDIM80SnEbrFfDiEO8m7CK0OXol&uid=1765358265887',
+    _req: null,
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false
+  },
+  type: 'error',
+  message: 'getaddrinfo ENOTFOUND ws.kite.trade',
+  error: Error: getaddrinfo ENOTFOUND ws.kite.trade
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ws.kite.trade'
+  }
+}
+❌ WS Error ErrorEvent {
+  target: WebSocket {
+    _events: [Object: null prototype] {
+      open: [Function],
+      message: [Function],
+      error: [Function],
+      close: [Function]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    readyState: 2,
+    protocol: '',
+    _binaryType: 'arraybuffer',
+    _closeFrameReceived: false,
+    _closeFrameSent: false,
+    _closeMessage: '',
+    _closeTimer: null,
+    _closeCode: 1006,
+    _extensions: {},
+    _receiver: null,
+    _sender: null,
+    _socket: null,
+    _isServer: false,
+    _redirects: 0,
+    url: 'wss://ws.kite.trade/?api_key=viaavoiaabnw7u2c&access_token=t8jbZaDIM80SnEbrFfDiEO8m7CK0OXol&uid=1765359275256',
+    _req: null,
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false
+  },
+  type: 'error',
+  message: 'getaddrinfo ENOTFOUND ws.kite.trade',
+  error: Error: getaddrinfo ENOTFOUND ws.kite.trade
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ws.kite.trade'
+  }
+}
+❌ WS Error ErrorEvent {
+  target: WebSocket {
+    _events: [Object: null prototype] {
+      open: [Function],
+      message: [Function],
+      error: [Function],
+      close: [Function]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    readyState: 2,
+    protocol: '',
+    _binaryType: 'arraybuffer',
+    _closeFrameReceived: false,
+    _closeFrameSent: false,
+    _closeMessage: '',
+    _closeTimer: null,
+    _closeCode: 1006,
+    _extensions: {},
+    _receiver: null,
+    _sender: null,
+    _socket: null,
+    _isServer: false,
+    _redirects: 0,
+    url: 'wss://ws.kite.trade/?api_key=viaavoiaabnw7u2c&access_token=t8jbZaDIM80SnEbrFfDiEO8m7CK0OXol&uid=1765359949174',
+    _req: null,
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false
+  },
+  type: 'error',
+  message: 'getaddrinfo ENOTFOUND ws.kite.trade',
+  error: Error: getaddrinfo ENOTFOUND ws.kite.trade
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ws.kite.trade'
+  }
+}
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 918017,
+  last_price: 14.11,
+  last_traded_quantity: 7,
+  average_traded_price: 14.18,
+  volume_traded: 44100,
+  total_buy_quantity: 276155,
+  total_sell_quantity: 118691,
+  ohlc: { open: 14.1, high: 14.39, low: 14.03, close: 14.23 },
+  change: -0.8432888264230569,
+  last_trade_time: 2025-12-10T09:46:18.000Z,
+  exchange_timestamp: 2025-12-10T09:46:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (918017) | LTP=14.11 | BuyRatio=5.41 | ΔVol=11408 | Buy=12272 | Sell=2267
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 269569,
+  last_price: 468.9,
+  last_traded_quantity: 1,
+  average_traded_price: 473.41,
+  volume_traded: 17946,
+  total_buy_quantity: 79466,
+  total_sell_quantity: 5717,
+  ohlc: { open: 476.3, high: 482, low: 467, close: 473.8 },
+  change: -1.0341916420430632,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:25.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (269569) | LTP=468.9 | BuyRatio=7.00 | ΔVol=9425 | Buy=49 | Sell=7
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 587265,
+  last_price: 37.22,
+  last_traded_quantity: 10,
+  average_traded_price: 36.96,
+  volume_traded: 3176285,
+  total_buy_quantity: 308029,
+  total_sell_quantity: 720456,
+  ohlc: { open: 35.99, high: 38.18, low: 35.75, close: 36.34 },
+  change: 2.4215740231150122,
+  last_trade_time: 2025-12-10T09:46:20.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (587265) | LTP=37.22 | BuyRatio=15.74 | ΔVol=206531 | Buy=41803 | Sell=2656
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 428801,
+  last_price: 301,
+  last_traded_quantity: 93,
+  average_traded_price: 305.19,
+  volume_traded: 461535,
+  total_buy_quantity: 60337,
+  total_sell_quantity: 284713,
+  ohlc: { open: 307.9, high: 311.2, low: 300.55, close: 304.8 },
+  change: -1.2467191601049905,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (428801) | LTP=301 | BuyRatio=19.83 | ΔVol=42969 | Buy=3866 | Sell=195
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 577537,
+  last_price: 25.73,
+  last_traded_quantity: 1,
+  average_traded_price: 26.33,
+  volume_traded: 259092,
+  total_buy_quantity: 108697,
+  total_sell_quantity: 110195,
+  ohlc: { open: 26.51, high: 27.01, low: 25.51, close: 26.69 },
+  change: -3.5968527538403925,
+  last_trade_time: 2025-12-10T09:46:23.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (577537) | LTP=25.73 | BuyRatio=8.82 | ΔVol=32551 | Buy=10236 | Sell=1160
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1095425,
+  last_price: 685.5,
+  last_traded_quantity: 1,
+  average_traded_price: 692.17,
+  volume_traded: 1738,
+  total_buy_quantity: 15278,
+  total_sell_quantity: 3119,
+  ohlc: { open: 690, high: 700.3, low: 685.1, close: 690.8 },
+  change: -0.7672264041690728,
+  last_trade_time: 2025-12-10T09:45:55.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (1095425) | LTP=685.5 | BuyRatio=11.67 | ΔVol=369 | Buy=70 | Sell=6
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 787969,
+  last_price: 470.15,
+  last_traded_quantity: 2,
+  average_traded_price: 470.54,
+  volume_traded: 14515,
+  total_buy_quantity: 24757,
+  total_sell_quantity: 7093,
+  ohlc: { open: 471.05, high: 473, low: 470, close: 470.45 },
+  change: -0.06376873206504652,
+  last_trade_time: 2025-12-10T09:45:20.000Z,
+  exchange_timestamp: 2025-12-10T09:46:11.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (787969) | LTP=470.15 | BuyRatio=4.50 | ΔVol=1232 | Buy=2025 | Sell=450
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 692481,
+  last_price: 302,
+  last_traded_quantity: 12,
+  average_traded_price: 305.32,
+  volume_traded: 575394,
+  total_buy_quantity: 104128,
+  total_sell_quantity: 97794,
+  ohlc: { open: 313, high: 314.05, low: 300.95, close: 311 },
+  change: -2.8938906752411575,
+  last_trade_time: 2025-12-10T09:46:22.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (692481) | LTP=302 | BuyRatio=7.15 | ΔVol=115358 | Buy=2882 | Sell=403
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 383233,
+  last_price: 61.8,
+  last_traded_quantity: 1,
+  average_traded_price: 61.67,
+  volume_traded: 647,
+  total_buy_quantity: 49653,
+  total_sell_quantity: 9114,
+  ohlc: { open: 63.22, high: 63.22, low: 61, close: 62.28 },
+  change: -0.7707129094412395,
+  last_trade_time: 2025-12-10T09:40:01.000Z,
+  exchange_timestamp: 2025-12-10T09:42:57.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (383233) | LTP=61.8 | BuyRatio=5.65 | ΔVol=266 | Buy=678 | Sell=120
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 610561,
+  last_price: 142.33,
+  last_traded_quantity: 1,
+  average_traded_price: 142.32,
+  volume_traded: 49506,
+  total_buy_quantity: 51900,
+  total_sell_quantity: 34776,
+  ohlc: { open: 140.6, high: 143.98, low: 140.6, close: 140.44 },
+  change: 1.3457704357732945,
+  last_trade_time: 2025-12-10T09:46:22.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (610561) | LTP=142.33 | BuyRatio=10.92 | ΔVol=5568 | Buy=830 | Sell=76
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 590593,
+  last_price: 122.99,
+  last_traded_quantity: 109,
+  average_traded_price: 123.14,
+  volume_traded: 10209,
+  total_buy_quantity: 96894,
+  total_sell_quantity: 10377,
+  ohlc: { open: 124.54, high: 124.54, low: 122.8, close: 123.32 },
+  change: -0.26759649691858445,
+  last_trade_time: 2025-12-10T09:44:26.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (590593) | LTP=122.99 | BuyRatio=12.28 | ΔVol=1238 | Buy=3820 | Sell=311
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 593665,
+  last_price: 160.49,
+  last_traded_quantity: 1,
+  average_traded_price: 162.76,
+  volume_traded: 1980743,
+  total_buy_quantity: 371582,
+  total_sell_quantity: 466332,
+  ohlc: { open: 162.72, high: 164.9, low: 160.42, close: 162.68 },
+  change: -1.34620113105483,
+  last_trade_time: 2025-12-10T09:46:23.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (593665) | LTP=160.49 | BuyRatio=4.90 | ΔVol=446243 | Buy=5782 | Sell=1181
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 965633,
+  last_price: 30.5,
+  last_traded_quantity: 5,
+  average_traded_price: 30.36,
+  volume_traded: 558,
+  total_buy_quantity: 21115,
+  total_sell_quantity: 11228,
+  ohlc: { open: 30.12, high: 31.39, low: 30.1, close: 30.08 },
+  change: 1.3962765957446865,
+  last_trade_time: 2025-12-10T09:35:17.000Z,
+  exchange_timestamp: 2025-12-10T09:45:51.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (965633) | LTP=30.5 | BuyRatio=7.60 | ΔVol=97 | Buy=418 | Sell=55
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 297473,
+  last_price: 8,
+  last_traded_quantity: 194,
+  average_traded_price: 8.05,
+  volume_traded: 356969,
+  total_buy_quantity: 340899,
+  total_sell_quantity: 150294,
+  ohlc: { open: 7.74, high: 8.2, low: 7.74, close: 7.74 },
+  change: 3.359173126614984,
+  last_trade_time: 2025-12-10T09:45:32.000Z,
+  exchange_timestamp: 2025-12-10T09:45:46.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (297473) | LTP=8 | BuyRatio=30.56 | ΔVol=34555 | Buy=135636 | Sell=4438
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 695297,
+  last_price: 685.9,
+  last_traded_quantity: 33,
+  average_traded_price: 682.24,
+  volume_traded: 5564,
+  total_buy_quantity: 11703,
+  total_sell_quantity: 6208,
+  ohlc: { open: 671.35, high: 692, low: 670.1, close: 667.35 },
+  change: 2.7796508578706756,
+  last_trade_time: 2025-12-10T09:44:11.000Z,
+  exchange_timestamp: 2025-12-10T09:46:18.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (695297) | LTP=685.9 | BuyRatio=6.08 | ΔVol=1070 | Buy=79 | Sell=13
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 714753,
+  last_price: 7.81,
+  last_traded_quantity: 185,
+  average_traded_price: 7.84,
+  volume_traded: 16524570,
+  total_buy_quantity: 22542621,
+  total_sell_quantity: 4632171,
+  ohlc: { open: 7.89, high: 7.95, low: 7.77, close: 7.73 },
+  change: 1.0349288486416452,
+  last_trade_time: 2025-12-10T09:46:18.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (714753) | LTP=7.81 | BuyRatio=5.65 | ΔVol=1522810 | Buy=736723 | Sell=130416
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 712449,
+  last_price: 666.25,
+  last_traded_quantity: 1,
+  average_traded_price: 676.23,
+  volume_traded: 77396,
+  total_buy_quantity: 34812,
+  total_sell_quantity: 30048,
+  ohlc: { open: 682.6, high: 688.4, low: 662.7, close: 680.85 },
+  change: -2.144378350591176,
+  last_trade_time: 2025-12-10T09:46:19.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (712449) | LTP=666.25 | BuyRatio=7.14 | ΔVol=11352 | Buy=307 | Sell=43
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 560129,
+  last_price: 46.81,
+  last_traded_quantity: 161,
+  average_traded_price: 46.81,
+  volume_traded: 468770,
+  total_buy_quantity: 357768,
+  total_sell_quantity: 253593,
+  ohlc: { open: 48.39, high: 48.39, low: 46.15, close: 48.01 },
+  change: -2.4994792751510015,
+  last_trade_time: 2025-12-10T09:45:34.000Z,
+  exchange_timestamp: 2025-12-10T09:46:01.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (560129) | LTP=46.81 | BuyRatio=4.28 | ΔVol=87235 | Buy=2827 | Sell=661
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 526337,
+  last_price: 1185.9,
+  last_traded_quantity: 1,
+  average_traded_price: 1185.58,
+  volume_traded: 247158,
+  total_buy_quantity: 21853,
+  total_sell_quantity: 58328,
+  ohlc: { open: 1179.8, high: 1197.9, low: 1162.4, close: 1161.5 },
+  change: 2.1007318123116736,
+  last_trade_time: 2025-12-10T09:46:20.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (526337) | LTP=1185.9 | BuyRatio=8.54 | ΔVol=36143 | Buy=205 | Sell=24
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 247553,
+  last_price: 11.93,
+  last_traded_quantity: 6000,
+  average_traded_price: 12.08,
+  volume_traded: 3206913,
+  total_buy_quantity: 473441,
+  total_sell_quantity: 1036005,
+  ohlc: { open: 11.85, high: 12.63, low: 11.7, close: 11.8 },
+  change: 1.1016949152542288,
+  last_trade_time: 2025-12-10T09:45:34.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (247553) | LTP=11.93 | BuyRatio=4.26 | ΔVol=168098 | Buy=49231 | Sell=11557
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 300545,
+  last_price: 494.7,
+  last_traded_quantity: 29,
+  average_traded_price: 497.64,
+  volume_traded: 133545,
+  total_buy_quantity: 47013,
+  total_sell_quantity: 91203,
+  ohlc: { open: 497.8, high: 505.9, low: 494, close: 501.25 },
+  change: -1.3067331670822966,
+  last_trade_time: 2025-12-10T09:46:19.000Z,
+  exchange_timestamp: 2025-12-10T09:46:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (300545) | LTP=494.7 | BuyRatio=4.99 | ΔVol=16570 | Buy=509 | Sell=102
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 895745,
+  last_price: 162.28,
+  last_traded_quantity: 4,
+  average_traded_price: 162.28,
+  volume_traded: 20964226,
+  total_buy_quantity: 1763331,
+  total_sell_quantity: 2088603,
+  ohlc: { open: 161, high: 163.68, low: 160.81, close: 160.67 },
+  change: 1.0020538992967036,
+  last_trade_time: 2025-12-10T09:46:22.000Z,
+  exchange_timestamp: 2025-12-10T09:46:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (895745) | LTP=162.28 | BuyRatio=8.02 | ΔVol=2416309 | Buy=50169 | Sell=6252
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 234497,
+  last_price: 1044.3,
+  last_traded_quantity: 1,
+  average_traded_price: 1038.95,
+  volume_traded: 239444,
+  total_buy_quantity: 29796,
+  total_sell_quantity: 50344,
+  ohlc: { open: 1011.1, high: 1054, low: 1011.1, close: 1009.5 },
+  change: 3.447251114413071,
+  last_trade_time: 2025-12-10T09:46:18.000Z,
+  exchange_timestamp: 2025-12-10T09:46:19.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (234497) | LTP=1044.3 | BuyRatio=7.88 | ΔVol=34803 | Buy=126 | Sell=16
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 557057,
+  last_price: 12.12,
+  last_traded_quantity: 2,
+  average_traded_price: 12.02,
+  volume_traded: 13036,
+  total_buy_quantity: 201430,
+  total_sell_quantity: 94788,
+  ohlc: { open: 11.95, high: 12.19, low: 11.82, close: 11.81 },
+  change: 2.6248941574936384,
+  last_trade_time: 2025-12-10T09:46:05.000Z,
+  exchange_timestamp: 2025-12-10T09:46:14.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (557057) | LTP=12.12 | BuyRatio=6.08 | ΔVol=6727 | Buy=322 | Sell=53
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 806145,
+  last_price: 539.9,
+  last_traded_quantity: 2,
+  average_traded_price: 546.18,
+  volume_traded: 288272,
+  total_buy_quantity: 36323,
+  total_sell_quantity: 35936,
+  ohlc: { open: 549.65, high: 555.5, low: 538.35, close: 546.7 },
+  change: -1.2438265959392845,
+  last_trade_time: 2025-12-10T09:46:22.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (806145) | LTP=539.9 | BuyRatio=5.28 | ΔVol=28479 | Buy=824 | Sell=156
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 734209,
+  last_price: 91.8,
+  last_traded_quantity: 82,
+  average_traded_price: 93.59,
+  volume_traded: 742115,
+  total_buy_quantity: 224911,
+  total_sell_quantity: 210935,
+  ohlc: { open: 94.21, high: 96.42, low: 91.63, close: 94.21 },
+  change: -2.558114849803627,
+  last_trade_time: 2025-12-10T09:46:17.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (734209) | LTP=91.8 | BuyRatio=11.10 | ΔVol=105002 | Buy=3696 | Sell=333
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 945665,
+  last_price: 1426.5,
+  last_traded_quantity: 4,
+  average_traded_price: 1431.46,
+  volume_traded: 4766,
+  total_buy_quantity: 13215,
+  total_sell_quantity: 3538,
+  ohlc: { open: 1419, high: 1450, low: 1418.5, close: 1422.1 },
+  change: 0.30940158919907823,
+  last_trade_time: 2025-12-10T09:45:59.000Z,
+  exchange_timestamp: 2025-12-10T09:46:04.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (945665) | LTP=1426.5 | BuyRatio=30.57 | ΔVol=566 | Buy=214 | Sell=7
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 812033,
+  last_price: 63.5,
+  last_traded_quantity: 100,
+  average_traded_price: 63.45,
+  volume_traded: 244455,
+  total_buy_quantity: 117242,
+  total_sell_quantity: 64860,
+  ohlc: { open: 63.7, high: 63.7, low: 63.35, close: 63.56 },
+  change: -0.09439899307741074,
+  last_trade_time: 2025-12-10T09:46:06.000Z,
+  exchange_timestamp: 2025-12-10T09:46:13.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (812033) | LTP=63.5 | BuyRatio=5.61 | ΔVol=82358 | Buy=71791 | Sell=12797
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 325121,
+  last_price: 529.5,
+  last_traded_quantity: 17,
+  average_traded_price: 532.53,
+  volume_traded: 691697,
+  total_buy_quantity: 171436,
+  total_sell_quantity: 171692,
+  ohlc: { open: 533.05, high: 536.5, low: 529.45, close: 533.05 },
+  change: -0.6659788012381493,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (325121) | LTP=529.5 | BuyRatio=5.73 | ΔVol=184575 | Buy=3250 | Sell=567
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 391681,
+  last_price: 408.3,
+  last_traded_quantity: 1,
+  average_traded_price: 408.17,
+  volume_traded: 17158,
+  total_buy_quantity: 30796,
+  total_sell_quantity: 24517,
+  ohlc: { open: 405.6, high: 410.25, low: 405, close: 405.9 },
+  change: 0.5912786400591363,
+  last_trade_time: 2025-12-10T09:45:15.000Z,
+  exchange_timestamp: 2025-12-10T09:46:12.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (391681) | LTP=408.3 | BuyRatio=18.90 | ΔVol=1792 | Buy=756 | Sell=40
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 411393,
+  last_price: 0.72,
+  last_traded_quantity: 40000,
+  average_traded_price: 0.71,
+  volume_traded: 66407328,
+  total_buy_quantity: 146820268,
+  total_sell_quantity: 0,
+  ohlc: { open: 0.68, high: 0.72, low: 0.66, close: 0.66 },
+  change: 9.090909090909083,
+  last_trade_time: 2025-12-10T09:46:02.000Z,
+  exchange_timestamp: 2025-12-10T09:46:20.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (411393) | LTP=0.72 | BuyRatio=143585271.00 | ΔVol=3194618 | Buy=143585271 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 510465,
+  last_price: 280.15,
+  last_traded_quantity: 14,
+  average_traded_price: 282.88,
+  volume_traded: 4198,
+  total_buy_quantity: 19190,
+  total_sell_quantity: 6499,
+  ohlc: { open: 282, high: 285.85, low: 280.05, close: 280.9 },
+  change: -0.266998932004272,
+  last_trade_time: 2025-12-10T09:38:10.000Z,
+  exchange_timestamp: 2025-12-10T09:46:12.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (510465) | LTP=280.15 | BuyRatio=19.63 | ΔVol=370 | Buy=1413 | Sell=72
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 850177,
+  last_price: 171.9,
+  last_traded_quantity: 6,
+  average_traded_price: 175.51,
+  volume_traded: 358511,
+  total_buy_quantity: 54771,
+  total_sell_quantity: 71411,
+  ohlc: { open: 180.9, high: 183, low: 171, close: 181.12 },
+  change: -5.090547703180211,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (850177) | LTP=171.9 | BuyRatio=7.63 | ΔVol=43398 | Buy=1510 | Sell=198
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 351233,
+  last_price: 422.2,
+  last_traded_quantity: 10,
+  average_traded_price: 419.46,
+  volume_traded: 2232,
+  total_buy_quantity: 19677,
+  total_sell_quantity: 1548,
+  ohlc: { open: 410, high: 424.3, low: 410, close: 412.5 },
+  change: 2.351515151515149,
+  last_trade_time: 2025-12-10T09:45:51.000Z,
+  exchange_timestamp: 2025-12-10T09:46:25.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (351233) | LTP=422.2 | BuyRatio=10.70 | ΔVol=499 | Buy=321 | Sell=30
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 897793,
+  last_price: 176.52,
+  last_traded_quantity: 2,
+  average_traded_price: 176.51,
+  volume_traded: 141443,
+  total_buy_quantity: 279581,
+  total_sell_quantity: 0,
+  ohlc: { open: 176.52, high: 176.52, low: 176, close: 176.2 },
+  change: 0.18161180476732214,
+  last_trade_time: 2025-12-10T09:46:01.000Z,
+  exchange_timestamp: 2025-12-10T09:46:12.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (897793) | LTP=176.52 | BuyRatio=189636.00 | ΔVol=9102 | Buy=189636 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 752385,
+  last_price: 207.59,
+  last_traded_quantity: 1,
+  average_traded_price: 210.49,
+  volume_traded: 5841,
+  total_buy_quantity: 21437,
+  total_sell_quantity: 4820,
+  ohlc: { open: 210.72, high: 213.89, low: 207.53, close: 208.99 },
+  change: -0.669888511412032,
+  last_trade_time: 2025-12-10T09:45:18.000Z,
+  exchange_timestamp: 2025-12-10T09:46:11.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (752385) | LTP=207.59 | BuyRatio=4.51 | ΔVol=1167 | Buy=230 | Sell=51
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 806401,
+  last_price: 3181.4,
+  last_traded_quantity: 2,
+  average_traded_price: 3148.58,
+  volume_traded: 325893,
+  total_buy_quantity: 36401,
+  total_sell_quantity: 34667,
+  ohlc: { open: 3150, high: 3183.3, low: 3105.2, close: 3142.8 },
+  change: 1.2282041491663456,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (806401) | LTP=3181.4 | BuyRatio=9.60 | ΔVol=29605 | Buy=1748 | Sell=182
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 284161,
+  last_price: 3.76,
+  last_traded_quantity: 6,
+  average_traded_price: 3.64,
+  volume_traded: 99574,
+  total_buy_quantity: 231799,
+  total_sell_quantity: 170106,
+  ohlc: { open: 3.52, high: 3.86, low: 3.44, close: 3.44 },
+  change: 9.302325581395344,
+  last_trade_time: 2025-12-10T09:41:05.000Z,
+  exchange_timestamp: 2025-12-10T09:45:26.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (284161) | LTP=3.76 | BuyRatio=5.49 | ΔVol=10217 | Buy=8209 | Sell=1494
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 669185,
+  last_price: 239.65,
+  last_traded_quantity: 11,
+  average_traded_price: 239.93,
+  volume_traded: 15989,
+  total_buy_quantity: 18755,
+  total_sell_quantity: 5040,
+  ohlc: { open: 236.2, high: 243.05, low: 236.2, close: 238.4 },
+  change: 0.5243288590604027,
+  last_trade_time: 2025-12-10T09:46:15.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (669185) | LTP=239.65 | BuyRatio=7.16 | ΔVol=2026 | Buy=523 | Sell=73
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 263681,
+  last_price: 177.15,
+  last_traded_quantity: 1,
+  average_traded_price: 178.66,
+  volume_traded: 6360,
+  total_buy_quantity: 23098,
+  total_sell_quantity: 5474,
+  ohlc: { open: 178.52, high: 182.59, low: 176.12, close: 178.52 },
+  change: -0.7674210172529714,
+  last_trade_time: 2025-12-10T09:43:15.000Z,
+  exchange_timestamp: 2025-12-10T09:46:21.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (263681) | LTP=177.15 | BuyRatio=10.74 | ΔVol=430 | Buy=1267 | Sell=118
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1100545,
+  last_price: 269.95,
+  last_traded_quantity: 19,
+  average_traded_price: 270.57,
+  volume_traded: 23853,
+  total_buy_quantity: 33402,
+  total_sell_quantity: 21306,
+  ohlc: { open: 271.75, high: 275, low: 267, close: 272 },
+  change: -0.7536764705882395,
+  last_trade_time: 2025-12-10T09:46:01.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (1100545) | LTP=269.95 | BuyRatio=7.27 | ΔVol=3469 | Buy=160 | Sell=22
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 605441,
+  last_price: 150.15,
+  last_traded_quantity: 250,
+  average_traded_price: 149.08,
+  volume_traded: 4000,
+  total_buy_quantity: 3000,
+  total_sell_quantity: 0,
+  ohlc: { open: 150.15, high: 150.15, low: 145.5, close: 143 },
+  change: 5.0000000000000036,
+  last_trade_time: 2025-12-10T09:26:15.000Z,
+  exchange_timestamp: 2025-12-10T09:42:57.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (605441) | LTP=150.15 | BuyRatio=2500.00 | ΔVol=500 | Buy=2500 | Sell=0
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 519425,
+  last_price: 112.27,
+  last_traded_quantity: 3,
+  average_traded_price: 113.63,
+  volume_traded: 4592797,
+  total_buy_quantity: 970601,
+  total_sell_quantity: 1048066,
+  ohlc: { open: 113.63, high: 115.13, low: 112, close: 113.64 },
+  change: -1.2055614220344988,
+  last_trade_time: 2025-12-10T09:46:24.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (519425) | LTP=112.27 | BuyRatio=4.24 | ΔVol=361091 | Buy=21549 | Sell=5081
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 613633,
+  last_price: 545.7,
+  last_traded_quantity: 1,
+  average_traded_price: 555.85,
+  volume_traded: 87176,
+  total_buy_quantity: 35170,
+  total_sell_quantity: 74361,
+  ohlc: { open: 562.65, high: 564.35, low: 545, close: 560.3 },
+  change: -2.6057469212921487,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (613633) | LTP=545.7 | BuyRatio=4.29 | ΔVol=7149 | Buy=266 | Sell=62
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 244481,
+  last_price: 6178,
+  last_traded_quantity: 1,
+  average_traded_price: 6123.73,
+  volume_traded: 48817,
+  total_buy_quantity: 4497,
+  total_sell_quantity: 3368,
+  ohlc: { open: 5866, high: 6237, low: 5852, close: 5839.5 },
+  change: 5.796729172018153,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (244481) | LTP=6178 | BuyRatio=7.09 | ΔVol=3430 | Buy=227 | Sell=32
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1018881,
+  last_price: 141.34,
+  last_traded_quantity: 1,
+  average_traded_price: 141.26,
+  volume_traded: 19778,
+  total_buy_quantity: 76225,
+  total_sell_quantity: 19801,
+  ohlc: { open: 141, high: 141.99, low: 139.99, close: 140.42 },
+  change: 0.6551773251673665,
+  last_trade_time: 2025-12-10T09:45:59.000Z,
+  exchange_timestamp: 2025-12-10T09:46:05.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (1018881) | LTP=141.34 | BuyRatio=8.63 | ΔVol=3360 | Buy=1018 | Sell=118
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 887297,
+  last_price: 65.06,
+  last_traded_quantity: 960,
+  average_traded_price: 65.37,
+  volume_traded: 994917,
+  total_buy_quantity: 276920,
+  total_sell_quantity: 277075,
+  ohlc: { open: 65.87, high: 65.87, low: 65.02, close: 65.55 },
+  change: -0.7475209763539206,
+  last_trade_time: 2025-12-10T09:45:46.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (887297) | LTP=65.06 | BuyRatio=21.94 | ΔVol=129337 | Buy=89188 | Sell=4066
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 481025,
+  last_price: 935.7,
+  last_traded_quantity: 3,
+  average_traded_price: 942.52,
+  volume_traded: 58472,
+  total_buy_quantity: 20428,
+  total_sell_quantity: 15029,
+  ohlc: { open: 939.7, high: 955, low: 929.9, close: 936.8 },
+  change: -0.11742100768572898,
+  last_trade_time: 2025-12-10T09:46:22.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (481025) | LTP=935.7 | BuyRatio=11.18 | ΔVol=5512 | Buy=1107 | Sell=99
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 437249,
+  last_price: 81.71,
+  last_traded_quantity: 5,
+  average_traded_price: 83.54,
+  volume_traded: 57417,
+  total_buy_quantity: 49140,
+  total_sell_quantity: 48179,
+  ohlc: { open: 84.5, high: 85.3, low: 81.62, close: 84.51 },
+  change: -3.313217370725371,
+  last_trade_time: 2025-12-10T09:46:21.000Z,
+  exchange_timestamp: 2025-12-10T09:46:24.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (437249) | LTP=81.71 | BuyRatio=4.84 | ΔVol=6898 | Buy=479 | Sell=99
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 396033,
+  last_price: 54.88,
+  last_traded_quantity: 11,
+  average_traded_price: 55.18,
+  volume_traded: 420392,
+  total_buy_quantity: 83457,
+  total_sell_quantity: 38492,
+  ohlc: { open: 55.5, high: 58.5, low: 52.51, close: 53.24 },
+  change: 3.0803906836964696,
+  last_trade_time: 2025-12-10T09:46:14.000Z,
+  exchange_timestamp: 2025-12-10T09:46:22.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (396033) | LTP=54.88 | BuyRatio=7.61 | ΔVol=35877 | Buy=10853 | Sell=1427
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 461313,
+  last_price: 10.65,
+  last_traded_quantity: 745,
+  average_traded_price: 10.64,
+  volume_traded: 9599179,
+  total_buy_quantity: 988989,
+  total_sell_quantity: 1284198,
+  ohlc: { open: 10.44, high: 10.88, low: 10.41, close: 10.4 },
+  change: 2.4038461538461537,
+  last_trade_time: 2025-12-10T09:46:13.000Z,
+  exchange_timestamp: 2025-12-10T09:46:23.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:25 | undefined (461313) | LTP=10.65 | BuyRatio=4.55 | ΔVol=1050499 | Buy=176492 | Sell=38824
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 752385,
+  last_price: 205.71,
+  last_traded_quantity: 53,
+  average_traded_price: 210.18,
+  volume_traded: 6441,
+  total_buy_quantity: 20844,
+  total_sell_quantity: 4824,
+  ohlc: { open: 210.72, high: 213.89, low: 205.71, close: 208.99 },
+  change: -1.569453083879612,
+  last_trade_time: 2025-12-10T09:46:34.000Z,
+  exchange_timestamp: 2025-12-10T09:46:39.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:39 | undefined (752385) | LTP=205.71 | BuyRatio=14.71 | ΔVol=600 | Buy=750 | Sell=51
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 1034241,
+  last_price: 1526.2,
+  last_traded_quantity: 34,
+  average_traded_price: 1549.26,
+  volume_traded: 40933,
+  total_buy_quantity: 8037,
+  total_sell_quantity: 6080,
+  ohlc: { open: 1601, high: 1634.7, low: 1502.3, close: 1609 },
+  change: -5.146053449347418,
+  last_trade_time: 2025-12-10T09:46:56.000Z,
+  exchange_timestamp: 2025-12-10T09:46:56.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:56 | undefined (1034241) | LTP=1526.2 | BuyRatio=9.19 | ΔVol=2280 | Buy=193 | Sell=21
+{
+  tradable: true,
+  mode: 'full',
+  instrument_token: 351233,
+  last_price: 422.95,
+  last_traded_quantity: 12,
+  average_traded_price: 419.26,
+  volume_traded: 2734,
+  total_buy_quantity: 20314,
+  total_sell_quantity: 1452,
+  ohlc: { open: 410, high: 424.3, low: 410, close: 412.5 },
+  change: 2.5333333333333306,
+  last_trade_time: 2025-12-10T09:46:56.000Z,
+  exchange_timestamp: 2025-12-10T09:46:58.000Z,
+  oi: 0,
+  oi_day_high: 0,
+  oi_day_low: 0,
+  depth: {
+    buy: [ [Object], [Object], [Object], [Object], [Object] ],
+    sell: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+🚨 15:16:59 | undefined (351233) | LTP=422.95 | BuyRatio=5.15 | ΔVol=501 | Buy=639 | Sell=124
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+📡 WebSocket Connected
+👀 Watching 700 stocks...
+📡 WebSocket Connected
+👀 Watching 700 stocks...🚨 14:12:35 | N/A (730625) | LTP=7215 | Change=2.25% | BuyRatio=1.79 | ΔVol=2481 | Momentum=0.78% | Avg=7047.84
+🚨 14:14:14 | N/A (558849) | LTP=472.1 | Change=0.52% | BuyRatio=5.03 | ΔVol=3982 | Momentum=1.70% | Avg=467.63
+🚨 14:16:48 | N/A (965633) | LTP=29.97 | Change=6.16% | BuyRatio=2.80 | ΔVol=1000 | Momentum=5.27% | Avg=28.88
+🚨 14:25:47 | N/A (1040385) | LTP=109.81 | Change=16.10% | BuyRatio=1.99 | ΔVol=104818 | Momentum=3.49% | Avg=104.08
+🚨 14:25:47 | N/A (730625) | LTP=7300 | Change=3.46% | BuyRatio=1.53 | ΔVol=14168 | Momentum=0.79% | Avg=7164.76
+🚨 14:41:19 | N/A (730625) | LTP=7390 | Change=4.73% | BuyRatio=1.91 | ΔVol=22173 | Momentum=1.23% | Avg=7233.33
+🚨 14:57:11 | N/A (1040385) | LTP=112.49 | Change=18.94% | BuyRatio=2.15 | ΔVol=183067 | Momentum=2.50% | Avg=105.85
+🚨 14:57:11 | N/A (972801) | LTP=14747 | Change=1.54% | BuyRatio=2.73 | ΔVol=16 | Momentum=0.18% | Avg=14664.63
+🚨 14:57:11 | N/A (530689) | LTP=446.7 | Change=0.59% | BuyRatio=1.77 | ΔVol=8206 | Momentum=0.54% | Avg=442.86
+🚨 15:13:12 | N/A (519425) | LTP=134.3 | Change=10.54% | BuyRatio=2.15 | ΔVol=22304656 | Momentum=1.68% | Avg=130.74
+🚨 15:13:12 | N/A (570625) | LTP=167.26 | Change=9.84% | BuyRatio=9.08 | ΔVol=86127 | Momentum=1.86% | Avg=164.15
+🚨 15:13:12 | N/A (563969) | LTP=335 | Change=0.63% | BuyRatio=1.90 | ΔVol=200674 | Momentum=0.30% | Avg=334.13
+🚨 15:13:12 | N/A (258817) | LTP=3809.8 | Change=0.85% | BuyRatio=1.51 | ΔVol=13281 | Momentum=0.26% | Avg=3802.16
+🚨 15:13:12 | N/A (1071105) | LTP=457.5 | Change=1.46% | BuyRatio=1.97 | ΔVol=6051 | Momentum=0.79% | Avg=452.49
+🚨 15:13:12 | N/A (513025) | LTP=50.88 | Change=0.77% | BuyRatio=3.10 | ΔVol=354 | Momentum=1.66% | Avg=50.43
+🚨 15:13:12 | N/A (512769) | LTP=14775 | Change=1.57% | BuyRatio=7.12 | ΔVol=8 | Momentum=0.33% | Avg=14720.02
+🚨 15:13:12 | N/A (213505) | LTP=14879 | Change=3.25% | BuyRatio=2.11 | ΔVol=51 | Momentum=0.87% | Avg=14750.04
+🚨 15:27:57 | N/A (728065) | LTP=1358 | Change=3.81% | BuyRatio=2.99 | ΔVol=965 | Momentum=1.20% | Avg=1343.78
+🚨 15:27:57 | N/A (258817) | LTP=3811.2 | Change=0.89% | BuyRatio=1.72 | ΔVol=9956 | Momentum=0.07% | Avg=3802.32
+🚨 15:27:57 | N/A (972801) | LTP=14749 | Change=1.56% | BuyRatio=1.93 | ΔVol=35 | Momentum=0.01% | Avg=14706.45
+🚨 15:27:57 | N/A (978177) | LTP=88.23 | Change=0.73% | BuyRatio=3.20 | ΔVol=1655 | Momentum=0.56% | Avg=87.34
+🚨 15:27:57 | N/A (303617) | LTP=1663.6 | Change=0.82% | BuyRatio=2.30 | ΔVol=132955 | Momentum=0.28% | Avg=1655.24
+🚨 15:27:57 | N/A (940033) | LTP=562.95 | Change=0.83% | BuyRatio=3.21 | ΔVol=8048 | Momentum=0.54% | Avg=559.08
+🚨 15:27:57 | N/A (299009) | LTP=1204 | Change=8.43% | BuyRatio=2.07 | ΔVol=85119 | Momentum=0.88% | Avg=1163.05
+🚨 15:27:57 | N/A (351233) | LTP=444.5 | Change=1.75% | BuyRatio=6.37 | ΔVol=613 | Momentum=0.59% | Avg=442.47
+🚨 15:27:57 | N/A (469761) | LTP=78.01 | Change=0.61% | BuyRatio=1.55 | ΔVol=640 | Momentum=0.03% | Avg=77.62
+🚨 15:27:57 | N/A (883969) | LTP=19.28 | Change=3.16% | BuyRatio=2.19 | ΔVol=250 | Momentum=7.11% | Avg=18.91
+🚨 15:27:57 | N/A (772609) | LTP=81.8 | Change=0.59% | BuyRatio=4.44 | ΔVol=9509 | Momentum=1.38% | Avg=81.25
+🚨 15:27:57 | N/A (530689) | LTP=447.2 | Change=0.70% | BuyRatio=2.00 | ΔVol=8757 | Momentum=0.10% | Avg=443.62

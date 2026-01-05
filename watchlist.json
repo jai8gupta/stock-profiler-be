@@ -1,0 +1,3502 @@
+[
+  {
+    "token": 714753,
+    "symbol": "EASEMYTRIP",
+    "avgVol": 87348207.8
+  },
+  {
+    "token": 352001,
+    "symbol": "HCC",
+    "avgVol": 70861704.6
+  },
+  {
+    "token": 744705,
+    "symbol": "RICOAUTO",
+    "avgVol": 31309624.6
+  },
+  {
+    "token": 1076225,
+    "symbol": "MOTHERSON",
+    "avgVol": 25655486
+  },
+  {
+    "token": 341249,
+    "symbol": "HDFCBANK",
+    "avgVol": 18770539.2
+  },
+  {
+    "token": 895745,
+    "symbol": "TATASTEEL",
+    "avgVol": 13774018.4
+  },
+  {
+    "token": 758529,
+    "symbol": "SAIL",
+    "avgVol": 12015728.2
+  },
+  {
+    "token": 779521,
+    "symbol": "SBIN",
+    "avgVol": 9768935.4
+  },
+  {
+    "token": 884737,
+    "symbol": "TMPV",
+    "avgVol": 9354799.8
+  },
+  {
+    "token": 975873,
+    "symbol": "ZEEL",
+    "avgVol": 9347017
+  },
+  {
+    "token": 424961,
+    "symbol": "ITC",
+    "avgVol": 8787203.8
+  },
+  {
+    "token": 887297,
+    "symbol": "TFCILTD",
+    "avgVol": 8535162.4
+  },
+  {
+    "token": 738561,
+    "symbol": "RELIANCE",
+    "avgVol": 8379368
+  },
+  {
+    "token": 784129,
+    "symbol": "VEDL",
+    "avgVol": 8061139
+  },
+  {
+    "token": 415745,
+    "symbol": "IOC",
+    "avgVol": 7751947.8
+  },
+  {
+    "token": 969473,
+    "symbol": "WIPRO",
+    "avgVol": 7498214.2
+  },
+  {
+    "token": 579329,
+    "symbol": "BANDHANBNK",
+    "avgVol": 7263950.6
+  },
+  {
+    "token": 364545,
+    "symbol": "HINDZINC",
+    "avgVol": 6846407
+  },
+  {
+    "token": 377857,
+    "symbol": "IDBI",
+    "avgVol": 6821129.8
+  },
+  {
+    "token": 1102337,
+    "symbol": "SHRIRAMFIN",
+    "avgVol": 6538954.8
+  },
+  {
+    "token": 408065,
+    "symbol": "INFY",
+    "avgVol": 6481173
+  },
+  {
+    "token": 261889,
+    "symbol": "FEDERALBNK",
+    "avgVol": 5549195.4
+  },
+  {
+    "token": 633601,
+    "symbol": "ONGC",
+    "avgVol": 5187433
+  },
+  {
+    "token": 519425,
+    "symbol": "IRFC",
+    "avgVol": 4991184.4
+  },
+  {
+    "token": 596737,
+    "symbol": "JAYNECOIND",
+    "avgVol": 4723819.8
+  },
+  {
+    "token": 1003009,
+    "symbol": "NATCOPHARM",
+    "avgVol": 4613266
+  },
+  {
+    "token": 404737,
+    "symbol": "TARC",
+    "avgVol": 4320249
+  },
+  {
+    "token": 584449,
+    "symbol": "MRPL",
+    "avgVol": 4188623
+  },
+  {
+    "token": 877057,
+    "symbol": "TATAPOWER",
+    "avgVol": 4120231
+  },
+  {
+    "token": 461313,
+    "symbol": "JYOTISTRUC",
+    "avgVol": 3878896
+  },
+  {
+    "token": 780289,
+    "symbol": "SCI",
+    "avgVol": 3621326.6
+  },
+  {
+    "token": 348929,
+    "symbol": "HINDALCO",
+    "avgVol": 3383495.4
+  },
+  {
+    "token": 593665,
+    "symbol": "NCC",
+    "avgVol": 3376594.4
+  },
+  {
+    "token": 381697,
+    "symbol": "IFCI",
+    "avgVol": 3167351.4
+  },
+  {
+    "token": 492033,
+    "symbol": "KOTAKBANK",
+    "avgVol": 3101225.4
+  },
+  {
+    "token": 920065,
+    "symbol": "UNITECH",
+    "avgVol": 3059015
+  },
+  {
+    "token": 667137,
+    "symbol": "LEMONTREE",
+    "avgVol": 2970927.6
+  },
+  {
+    "token": 359937,
+    "symbol": "HINDPETRO",
+    "avgVol": 2722587.6
+  },
+  {
+    "token": 524545,
+    "symbol": "CHENNPETRO",
+    "avgVol": 2655024
+  },
+  {
+    "token": 590337,
+    "symbol": "BESTAGRO",
+    "avgVol": 2595089.8
+  },
+  {
+    "token": 290305,
+    "symbol": "APOLLO",
+    "avgVol": 2440724.4
+  },
+  {
+    "token": 233729,
+    "symbol": "EQUITASBNK",
+    "avgVol": 2346796.2
+  },
+  {
+    "token": 387073,
+    "symbol": "INDHOTEL",
+    "avgVol": 2280236.6
+  },
+  {
+    "token": 411393,
+    "symbol": "AURIGROW",
+    "avgVol": 2223524.6
+  },
+  {
+    "token": 194561,
+    "symbol": "CGPOWER",
+    "avgVol": 2077683.6
+  },
+  {
+    "token": 857857,
+    "symbol": "SUNPHARMA",
+    "avgVol": 2072972.6
+  },
+  {
+    "token": 519937,
+    "symbol": "M&M",
+    "avgVol": 1985901.8
+  },
+  {
+    "token": 356865,
+    "symbol": "HINDUNILVR",
+    "avgVol": 1933254.6
+  },
+  {
+    "token": 225537,
+    "symbol": "DRREDDY",
+    "avgVol": 1926575.8
+  },
+  {
+    "token": 470529,
+    "symbol": "KARURVYSYA",
+    "avgVol": 1858326.8
+  },
+  {
+    "token": 382465,
+    "symbol": "RBA",
+    "avgVol": 1764855.2
+  },
+  {
+    "token": 1041153,
+    "symbol": "MARICO",
+    "avgVol": 1735863.4
+  },
+  {
+    "token": 756481,
+    "symbol": "KALYANKJIL",
+    "avgVol": 1632771.4
+  },
+  {
+    "token": 912129,
+    "symbol": "ADANIGREEN",
+    "avgVol": 1569458.8
+  },
+  {
+    "token": 173057,
+    "symbol": "EXIDEIND",
+    "avgVol": 1498216.2
+  },
+  {
+    "token": 475905,
+    "symbol": "KESORAMIND",
+    "avgVol": 1456793.2
+  },
+  {
+    "token": 197633,
+    "symbol": "DABUR",
+    "avgVol": 1399454.6
+  },
+  {
+    "token": 774145,
+    "symbol": "JINDALSAW",
+    "avgVol": 1358934.6
+  },
+  {
+    "token": 160769,
+    "symbol": "CESC",
+    "avgVol": 1220185.6
+  },
+  {
+    "token": 578305,
+    "symbol": "MOREPENLAB",
+    "avgVol": 1164492
+  },
+  {
+    "token": 239873,
+    "symbol": "ELGIEQUIP",
+    "avgVol": 1118159
+  },
+  {
+    "token": 325121,
+    "symbol": "AMBUJACEM",
+    "avgVol": 1100431.6
+  },
+  {
+    "token": 548865,
+    "symbol": "BDL",
+    "avgVol": 1076371
+  },
+  {
+    "token": 824321,
+    "symbol": "LODHA",
+    "avgVol": 1051690.4
+  },
+  {
+    "token": 316161,
+    "symbol": "GREAVESCOT",
+    "avgVol": 1033039.2
+  },
+  {
+    "token": 247553,
+    "symbol": "SUBEXLTD",
+    "avgVol": 1033039
+  },
+  {
+    "token": 177665,
+    "symbol": "CIPLA",
+    "avgVol": 1010798
+  },
+  {
+    "token": 760833,
+    "symbol": "ORIENTELEC",
+    "avgVol": 989643.8
+  },
+  {
+    "token": 175361,
+    "symbol": "CHOLAFIN",
+    "avgVol": 949060
+  },
+  {
+    "token": 511233,
+    "symbol": "LICHSGFIN",
+    "avgVol": 947603.8
+  },
+  {
+    "token": 209153,
+    "symbol": "DCW",
+    "avgVol": 927924
+  },
+  {
+    "token": 320001,
+    "symbol": "CASTROLIND",
+    "avgVol": 880721.6
+  },
+  {
+    "token": 407809,
+    "symbol": "MGEL",
+    "avgVol": 843881.8
+  },
+  {
+    "token": 720897,
+    "symbol": "RALLIS",
+    "avgVol": 841791.4
+  },
+  {
+    "token": 428801,
+    "symbol": "ITI",
+    "avgVol": 838979.4
+  },
+  {
+    "token": 375553,
+    "symbol": "AKZOINDIA",
+    "avgVol": 817856.4
+  },
+  {
+    "token": 951809,
+    "symbol": "VOLTAS",
+    "avgVol": 784128
+  },
+  {
+    "token": 918017,
+    "symbol": "MOKSH",
+    "avgVol": 748624.2
+  },
+  {
+    "token": 587265,
+    "symbol": "MTNL",
+    "avgVol": 747351.2
+  },
+  {
+    "token": 733697,
+    "symbol": "RCF",
+    "avgVol": 741153.8
+  },
+  {
+    "token": 878593,
+    "symbol": "TATACONSUM",
+    "avgVol": 735089.2
+  },
+  {
+    "token": 643329,
+    "symbol": "BCLIND",
+    "avgVol": 724900
+  },
+  {
+    "token": 894465,
+    "symbol": "PGINVIT-IV",
+    "avgVol": 724663.8
+  },
+  {
+    "token": 589569,
+    "symbol": "HAL",
+    "avgVol": 707823.2
+  },
+  {
+    "token": 163073,
+    "symbol": "CHAMBLFERT",
+    "avgVol": 691366
+  },
+  {
+    "token": 251137,
+    "symbol": "EPL",
+    "avgVol": 661320.8
+  },
+  {
+    "token": 764673,
+    "symbol": "NAZARA",
+    "avgVol": 641549.8
+  },
+  {
+    "token": 362241,
+    "symbol": "GLOBAL",
+    "avgVol": 639908.8
+  },
+  {
+    "token": 237569,
+    "symbol": "ELECTCAST",
+    "avgVol": 634623.4
+  },
+  {
+    "token": 595969,
+    "symbol": "CPSEETF",
+    "avgVol": 621131.2
+  },
+  {
+    "token": 266497,
+    "symbol": "FINPIPE",
+    "avgVol": 610636.2
+  },
+  {
+    "token": 837889,
+    "symbol": "SRF",
+    "avgVol": 590640.8
+  },
+  {
+    "token": 891137,
+    "symbol": "THOMASCOOK",
+    "avgVol": 585208.2
+  },
+  {
+    "token": 560129,
+    "symbol": "GENCON",
+    "avgVol": 584807.4
+  },
+  {
+    "token": 345089,
+    "symbol": "HEROMOTOCO",
+    "avgVol": 581207.2
+  },
+  {
+    "token": 897537,
+    "symbol": "TITAN",
+    "avgVol": 568541.6
+  },
+  {
+    "token": 946945,
+    "symbol": "GAYAHWS-BE",
+    "avgVol": 561841.2
+  },
+  {
+    "token": 342017,
+    "symbol": "HEG",
+    "avgVol": 552666.6
+  },
+  {
+    "token": 956417,
+    "symbol": "WALCHANNAG",
+    "avgVol": 536594.2
+  },
+  {
+    "token": 486657,
+    "symbol": "CUMMINSIND",
+    "avgVol": 530909
+  },
+  {
+    "token": 502785,
+    "symbol": "TRENT",
+    "avgVol": 525243.2
+  },
+  {
+    "token": 498945,
+    "symbol": "KSB",
+    "avgVol": 517359.6
+  },
+  {
+    "token": 319233,
+    "symbol": "GSFC",
+    "avgVol": 516328.6
+  },
+  {
+    "token": 976129,
+    "symbol": "ARIHANTCAP",
+    "avgVol": 516232.2
+  },
+  {
+    "token": 414977,
+    "symbol": "TATAINVEST",
+    "avgVol": 514553.8
+  },
+  {
+    "token": 987393,
+    "symbol": "VARROC",
+    "avgVol": 508821
+  },
+  {
+    "token": 232961,
+    "symbol": "EICHERMOT",
+    "avgVol": 505409.4
+  },
+  {
+    "token": 692481,
+    "symbol": "PRAJIND",
+    "avgVol": 504001.8
+  },
+  {
+    "token": 734209,
+    "symbol": "HITECH",
+    "avgVol": 452676.6
+  },
+  {
+    "token": 695553,
+    "symbol": "PRECWIRE",
+    "avgVol": 432415.6
+  },
+  {
+    "token": 622337,
+    "symbol": "RAILTEL",
+    "avgVol": 426046.8
+  },
+  {
+    "token": 962817,
+    "symbol": "RITES",
+    "avgVol": 425489
+  },
+  {
+    "token": 189185,
+    "symbol": "COROMANDEL",
+    "avgVol": 423091.2
+  },
+  {
+    "token": 681985,
+    "symbol": "PIDILITIND",
+    "avgVol": 420494.8
+  },
+  {
+    "token": 580609,
+    "symbol": "MOTOGENFIN",
+    "avgVol": 414342.8
+  },
+  {
+    "token": 582401,
+    "symbol": "IRISDOREME",
+    "avgVol": 414288.8
+  },
+  {
+    "token": 628225,
+    "symbol": "CENTRUM",
+    "avgVol": 398042.2
+  },
+  {
+    "token": 1086465,
+    "symbol": "HDFCAMC",
+    "avgVol": 395048.2
+  },
+  {
+    "token": 339969,
+    "symbol": "MARINE",
+    "avgVol": 388880.2
+  },
+  {
+    "token": 897793,
+    "symbol": "MAFANG",
+    "avgVol": 387847.2
+  },
+  {
+    "token": 359169,
+    "symbol": "HINDOILEXP",
+    "avgVol": 365448.4
+  },
+  {
+    "token": 275457,
+    "symbol": "ZENSARTECH",
+    "avgVol": 365249
+  },
+  {
+    "token": 678145,
+    "symbol": "PCBL",
+    "avgVol": 361686.4
+  },
+  {
+    "token": 342529,
+    "symbol": "SDBL",
+    "avgVol": 358037
+  },
+  {
+    "token": 947969,
+    "symbol": "VIPIND",
+    "avgVol": 354036.4
+  },
+  {
+    "token": 806145,
+    "symbol": "BORORENEW",
+    "avgVol": 350885.4
+  },
+  {
+    "token": 288513,
+    "symbol": "GHCL",
+    "avgVol": 338274.6
+  },
+  {
+    "token": 315393,
+    "symbol": "GRASIM",
+    "avgVol": 332058
+  },
+  {
+    "token": 555009,
+    "symbol": "RAJMET",
+    "avgVol": 330905.2
+  },
+  {
+    "token": 386049,
+    "symbol": "ASTERDM",
+    "avgVol": 330716
+  },
+  {
+    "token": 693249,
+    "symbol": "PRAKASH",
+    "avgVol": 327521.4
+  },
+  {
+    "token": 548353,
+    "symbol": "MFSL",
+    "avgVol": 325598
+  },
+  {
+    "token": 832513,
+    "symbol": "SPIC",
+    "avgVol": 325112.6
+  },
+  {
+    "token": 806401,
+    "symbol": "SIEMENS",
+    "avgVol": 320953.8
+  },
+  {
+    "token": 613633,
+    "symbol": "SANDHAR",
+    "avgVol": 314177.4
+  },
+  {
+    "token": 306177,
+    "symbol": "KANSAINER",
+    "avgVol": 313963.2
+  },
+  {
+    "token": 370689,
+    "symbol": "HLVLTD",
+    "avgVol": 311135.2
+  },
+  {
+    "token": 724225,
+    "symbol": "ANURAS",
+    "avgVol": 297438.6
+  },
+  {
+    "token": 630529,
+    "symbol": "MIDHANI",
+    "avgVol": 296923.4
+  },
+  {
+    "token": 693505,
+    "symbol": "MTARTECH",
+    "avgVol": 288796
+  },
+  {
+    "token": 151553,
+    "symbol": "GRAPHITE",
+    "avgVol": 288677.4
+  },
+  {
+    "token": 879361,
+    "symbol": "BBOX",
+    "avgVol": 278539.2
+  },
+  {
+    "token": 793345,
+    "symbol": "SHREDIGCEM",
+    "avgVol": 274091.8
+  },
+  {
+    "token": 952577,
+    "symbol": "TATACOMM",
+    "avgVol": 270656.8
+  },
+  {
+    "token": 534529,
+    "symbol": "MAHSEAMLES",
+    "avgVol": 270169
+  },
+  {
+    "token": 871169,
+    "symbol": "AJOONI",
+    "avgVol": 269368.2
+  },
+  {
+    "token": 940033,
+    "symbol": "SOLARA",
+    "avgVol": 265241
+  },
+  {
+    "token": 348161,
+    "symbol": "HIMATSEIDE",
+    "avgVol": 262302
+  },
+  {
+    "token": 871681,
+    "symbol": "TATACHEM",
+    "avgVol": 260287.6
+  },
+  {
+    "token": 864001,
+    "symbol": "SURYAROSNI",
+    "avgVol": 258438.2
+  },
+  {
+    "token": 302337,
+    "symbol": "GODFRYPHLP",
+    "avgVol": 255983.8
+  },
+  {
+    "token": 491265,
+    "symbol": "KOPRAN",
+    "avgVol": 244358.6
+  },
+  {
+    "token": 387841,
+    "symbol": "INDIACEM",
+    "avgVol": 234827
+  },
+  {
+    "token": 149249,
+    "symbol": "CANFINHOME",
+    "avgVol": 234611.8
+  },
+  {
+    "token": 277761,
+    "symbol": "GABRIEL",
+    "avgVol": 228121.4
+  },
+  {
+    "token": 563969,
+    "symbol": "BIRET-RR",
+    "avgVol": 227830
+  },
+  {
+    "token": 727297,
+    "symbol": "LXCHEM",
+    "avgVol": 226320.4
+  },
+  {
+    "token": 638209,
+    "symbol": "ORIENTHOT",
+    "avgVol": 225604.4
+  },
+  {
+    "token": 860929,
+    "symbol": "SUPREMEIND",
+    "avgVol": 218930.6
+  },
+  {
+    "token": 1027585,
+    "symbol": "NAVA",
+    "avgVol": 217532.8
+  },
+  {
+    "token": 768513,
+    "symbol": "WONDERLA",
+    "avgVol": 214266.8
+  },
+  {
+    "token": 933377,
+    "symbol": "VARDMNPOLY",
+    "avgVol": 213440.8
+  },
+  {
+    "token": 638977,
+    "symbol": "ORIENTPPR",
+    "avgVol": 210421.8
+  },
+  {
+    "token": 418049,
+    "symbol": "IPCALAB",
+    "avgVol": 200463.2
+  },
+  {
+    "token": 577537,
+    "symbol": "PENINLAND",
+    "avgVol": 199778.8
+  },
+  {
+    "token": 672513,
+    "symbol": "IT",
+    "avgVol": 199478.8
+  },
+  {
+    "token": 557057,
+    "symbol": "AKG",
+    "avgVol": 195294.2
+  },
+  {
+    "token": 1025793,
+    "symbol": "CORALFINAC",
+    "avgVol": 188275.2
+  },
+  {
+    "token": 297985,
+    "symbol": "NEWGEN",
+    "avgVol": 186027.6
+  },
+  {
+    "token": 297473,
+    "symbol": "GTL",
+    "avgVol": 184055.4
+  },
+  {
+    "token": 339713,
+    "symbol": "HCL-INSYS",
+    "avgVol": 183515.8
+  },
+  {
+    "token": 299009,
+    "symbol": "GMBREW",
+    "avgVol": 182622.6
+  },
+  {
+    "token": 731905,
+    "symbol": "RAYMOND",
+    "avgVol": 181856.6
+  },
+  {
+    "token": 211713,
+    "symbol": "DEEPAKFERT",
+    "avgVol": 179702.2
+  },
+  {
+    "token": 850177,
+    "symbol": "SPMLINFRA",
+    "avgVol": 174090.6
+  },
+  {
+    "token": 526337,
+    "symbol": "HOMEFIRST",
+    "avgVol": 173899.2
+  },
+  {
+    "token": 900609,
+    "symbol": "TORNTPHARM",
+    "avgVol": 171307.6
+  },
+  {
+    "token": 303361,
+    "symbol": "AMBER",
+    "avgVol": 168230.2
+  },
+  {
+    "token": 790529,
+    "symbol": "INDOSTAR",
+    "avgVol": 168223
+  },
+  {
+    "token": 812033,
+    "symbol": "GILT5YBEES",
+    "avgVol": 163064.4
+  },
+  {
+    "token": 179457,
+    "symbol": "HEMIPROP",
+    "avgVol": 158944.6
+  },
+  {
+    "token": 873217,
+    "symbol": "TATAELXSI",
+    "avgVol": 157892.6
+  },
+  {
+    "token": 523009,
+    "symbol": "RAMCOCEM",
+    "avgVol": 153552
+  },
+  {
+    "token": 767233,
+    "symbol": "SANGHIIND",
+    "avgVol": 152022.8
+  },
+  {
+    "token": 303617,
+    "symbol": "GLAND",
+    "avgVol": 149220.2
+  },
+  {
+    "token": 1000449,
+    "symbol": "PREMIERPOL",
+    "avgVol": 145895.2
+  },
+  {
+    "token": 712449,
+    "symbol": "JUBLINGREA",
+    "avgVol": 145226
+  },
+  {
+    "token": 300545,
+    "symbol": "GNFC",
+    "avgVol": 141338.8
+  },
+  {
+    "token": 152321,
+    "symbol": "CARBORUNIV",
+    "avgVol": 140612.8
+  },
+  {
+    "token": 953345,
+    "symbol": "VSTIND",
+    "avgVol": 140608.4
+  },
+  {
+    "token": 162305,
+    "symbol": "IGARASHI",
+    "avgVol": 140008.8
+  },
+  {
+    "token": 593921,
+    "symbol": "SMCGLOBAL",
+    "avgVol": 139654.4
+  },
+  {
+    "token": 245249,
+    "symbol": "ESCORTS",
+    "avgVol": 139105.4
+  },
+  {
+    "token": 462849,
+    "symbol": "KAJARIACER",
+    "avgVol": 138383.6
+  },
+  {
+    "token": 229377,
+    "symbol": "KHAICHEM",
+    "avgVol": 136950.4
+  },
+  {
+    "token": 293121,
+    "symbol": "GIPCL",
+    "avgVol": 136211.4
+  },
+  {
+    "token": 809473,
+    "symbol": "SIMPLEXINF",
+    "avgVol": 133650.6
+  },
+  {
+    "token": 923393,
+    "symbol": "UNIVCABLES",
+    "avgVol": 133603.8
+  },
+  {
+    "token": 284161,
+    "symbol": "DANGEE",
+    "avgVol": 130426.8
+  },
+  {
+    "token": 668161,
+    "symbol": "PEARLPOLY",
+    "avgVol": 130277.8
+  },
+  {
+    "token": 898305,
+    "symbol": "TNPETRO",
+    "avgVol": 129405
+  },
+  {
+    "token": 375041,
+    "symbol": "ACCURACY",
+    "avgVol": 127559.6
+  },
+  {
+    "token": 235265,
+    "symbol": "EIHOTEL",
+    "avgVol": 126757.2
+  },
+  {
+    "token": 951041,
+    "symbol": "VLSFINANCE",
+    "avgVol": 125690.4
+  },
+  {
+    "token": 292353,
+    "symbol": "GINNIFILA",
+    "avgVol": 122150
+  },
+  {
+    "token": 160001,
+    "symbol": "ABREL",
+    "avgVol": 121007.8
+  },
+  {
+    "token": 1016833,
+    "symbol": "PARASPETRO",
+    "avgVol": 119796.4
+  },
+  {
+    "token": 828673,
+    "symbol": "JTEKTINDIA",
+    "avgVol": 118290.8
+  },
+  {
+    "token": 481025,
+    "symbol": "CARYSIL",
+    "avgVol": 116501.2
+  },
+  {
+    "token": 417281,
+    "symbol": "IONEXCHANG",
+    "avgVol": 115221
+  },
+  {
+    "token": 464385,
+    "symbol": "KPIL",
+    "avgVol": 114857.2
+  },
+  {
+    "token": 234497,
+    "symbol": "EIDPARRY",
+    "avgVol": 114623.6
+  },
+  {
+    "token": 530689,
+    "symbol": "VTL",
+    "avgVol": 114373
+  },
+  {
+    "token": 389377,
+    "symbol": "INDIAGLYCO",
+    "avgVol": 113574.8
+  },
+  {
+    "token": 625153,
+    "symbol": "NOCIL",
+    "avgVol": 112064.4
+  },
+  {
+    "token": 726273,
+    "symbol": "RANASUG",
+    "avgVol": 111566.2
+  },
+  {
+    "token": 850945,
+    "symbol": "SUBROS",
+    "avgVol": 111488.4
+  },
+  {
+    "token": 471297,
+    "symbol": "KCP",
+    "avgVol": 110743.6
+  },
+  {
+    "token": 615937,
+    "symbol": "NEULANDLAB",
+    "avgVol": 109695.6
+  },
+  {
+    "token": 223745,
+    "symbol": "ASTRON",
+    "avgVol": 107729.6
+  },
+  {
+    "token": 760321,
+    "symbol": "SURYODAY",
+    "avgVol": 105872.4
+  },
+  {
+    "token": 941057,
+    "symbol": "VESUVIUS",
+    "avgVol": 101591.8
+  },
+  {
+    "token": 851713,
+    "symbol": "SUDARSCHEM",
+    "avgVol": 100759.4
+  },
+  {
+    "token": 181249,
+    "symbol": "SHRADHA",
+    "avgVol": 100713.4
+  },
+  {
+    "token": 632833,
+    "symbol": "OILCOUNTUB",
+    "avgVol": 97580.4
+  },
+  {
+    "token": 182785,
+    "symbol": "SHALBY",
+    "avgVol": 94906.8
+  },
+  {
+    "token": 1020673,
+    "symbol": "GREENPLY",
+    "avgVol": 94740.8
+  },
+  {
+    "token": 265729,
+    "symbol": "FINCABLES",
+    "avgVol": 93831.2
+  },
+  {
+    "token": 585985,
+    "symbol": "HLEGLAS",
+    "avgVol": 93723.4
+  },
+  {
+    "token": 558849,
+    "symbol": "TSFINV",
+    "avgVol": 93062.2
+  },
+  {
+    "token": 842753,
+    "symbol": "DEEPINDS",
+    "avgVol": 92413.4
+  },
+  {
+    "token": 655873,
+    "symbol": "HUHTAMAKI",
+    "avgVol": 89605.2
+  },
+  {
+    "token": 543745,
+    "symbol": "MASTEK",
+    "avgVol": 87742.6
+  },
+  {
+    "token": 1038081,
+    "symbol": "PANACEABIO",
+    "avgVol": 86937.8
+  },
+  {
+    "token": 767489,
+    "symbol": "SUVIDHAA",
+    "avgVol": 86561.8
+  },
+  {
+    "token": 403457,
+    "symbol": "GILLETTE",
+    "avgVol": 85409.8
+  },
+  {
+    "token": 770305,
+    "symbol": "KOHINOOR",
+    "avgVol": 85271.4
+  },
+  {
+    "token": 1040385,
+    "symbol": "CUBEXTUB",
+    "avgVol": 85137.6
+  },
+  {
+    "token": 856321,
+    "symbol": "SUNDRMFAST",
+    "avgVol": 85057
+  },
+  {
+    "token": 610561,
+    "symbol": "NAVNETEDUL",
+    "avgVol": 84347.2
+  },
+  {
+    "token": 539137,
+    "symbol": "MANGLMCEM",
+    "avgVol": 84193
+  },
+  {
+    "token": 1015041,
+    "symbol": "REMSONSIND",
+    "avgVol": 82728
+  },
+  {
+    "token": 147969,
+    "symbol": "LIKHITHA",
+    "avgVol": 82634.2
+  },
+  {
+    "token": 524289,
+    "symbol": "INDIGOPNTS",
+    "avgVol": 82575.4
+  },
+  {
+    "token": 623361,
+    "symbol": "CONSUMBEES",
+    "avgVol": 81703.6
+  },
+  {
+    "token": 894977,
+    "symbol": "TIRUMALCHM",
+    "avgVol": 81481
+  },
+  {
+    "token": 867073,
+    "symbol": "SMLMAH",
+    "avgVol": 79295
+  },
+  {
+    "token": 437249,
+    "symbol": "JAYBARMARU",
+    "avgVol": 79289.8
+  },
+  {
+    "token": 295169,
+    "symbol": "GLAXO",
+    "avgVol": 78386.8
+  },
+  {
+    "token": 931073,
+    "symbol": "JUBLPHARMA",
+    "avgVol": 74748
+  },
+  {
+    "token": 281601,
+    "symbol": "GARFIBRES",
+    "avgVol": 73219.8
+  },
+  {
+    "token": 768257,
+    "symbol": "BSE500IETF",
+    "avgVol": 72407.6
+  },
+  {
+    "token": 219393,
+    "symbol": "DHAMPURSUG",
+    "avgVol": 71169.4
+  },
+  {
+    "token": 772609,
+    "symbol": "SAURASHCEM",
+    "avgVol": 67674.2
+  },
+  {
+    "token": 974593,
+    "symbol": "VINEETLAB",
+    "avgVol": 67554
+  },
+  {
+    "token": 199169,
+    "symbol": "KEEPLEARN",
+    "avgVol": 67216
+  },
+  {
+    "token": 928257,
+    "symbol": "HEALTHIETF",
+    "avgVol": 66673.8
+  },
+  {
+    "token": 1080577,
+    "symbol": "VISAKAIND",
+    "avgVol": 66517
+  },
+  {
+    "token": 903681,
+    "symbol": "AXISBPSETF",
+    "avgVol": 65557.2
+  },
+  {
+    "token": 258817,
+    "symbol": "SCHAEFFLER",
+    "avgVol": 63365.8
+  },
+  {
+    "token": 193793,
+    "symbol": "CRISIL",
+    "avgVol": 61864.6
+  },
+  {
+    "token": 848897,
+    "symbol": "MODISONLTD",
+    "avgVol": 61440.4
+  },
+  {
+    "token": 237057,
+    "symbol": "ORCHPHARMA",
+    "avgVol": 59793.4
+  },
+  {
+    "token": 539393,
+    "symbol": "STOVEKRAFT",
+    "avgVol": 59412.6
+  },
+  {
+    "token": 979713,
+    "symbol": "ZUARIIND",
+    "avgVol": 57951.6
+  },
+  {
+    "token": 440321,
+    "symbol": "JAYSREETEA",
+    "avgVol": 56074.6
+  },
+  {
+    "token": 304641,
+    "symbol": "FMGOETZE",
+    "avgVol": 55509.8
+  },
+  {
+    "token": 701185,
+    "symbol": "PRSMJOHNSN",
+    "avgVol": 55187.8
+  },
+  {
+    "token": 441857,
+    "symbol": "JBCHEPHARM",
+    "avgVol": 54675
+  },
+  {
+    "token": 760065,
+    "symbol": "SAKHTISUG",
+    "avgVol": 54275.6
+  },
+  {
+    "token": 207617,
+    "symbol": "DCMSHRIRAM",
+    "avgVol": 53767.2
+  },
+  {
+    "token": 391681,
+    "symbol": "INDIANHUME",
+    "avgVol": 53702.2
+  },
+  {
+    "token": 674817,
+    "symbol": "DIVOPPBEES",
+    "avgVol": 52196.6
+  },
+  {
+    "token": 291585,
+    "symbol": "GICHSGFIN",
+    "avgVol": 51514.6
+  },
+  {
+    "token": 592897,
+    "symbol": "HEIDELBERG",
+    "avgVol": 50376.6
+  },
+  {
+    "token": 643585,
+    "symbol": "OSWALAGRO",
+    "avgVol": 49815.6
+  },
+  {
+    "token": 857089,
+    "symbol": "SUNFLAG",
+    "avgVol": 49476.8
+  },
+  {
+    "token": 428033,
+    "symbol": "HGINFRA",
+    "avgVol": 49398.2
+  },
+  {
+    "token": 189953,
+    "symbol": "COSMOFIRST",
+    "avgVol": 49215.6
+  },
+  {
+    "token": 449537,
+    "symbol": "JINDALPOLY",
+    "avgVol": 48792.2
+  },
+  {
+    "token": 493313,
+    "symbol": "LIQUIDETF",
+    "avgVol": 48655.4
+  },
+  {
+    "token": 258049,
+    "symbol": "FACT",
+    "avgVol": 48431.8
+  },
+  {
+    "token": 416769,
+    "symbol": "BECTORFOOD",
+    "avgVol": 44728
+  },
+  {
+    "token": 396033,
+    "symbol": "RKEC",
+    "avgVol": 43981.4
+  },
+  {
+    "token": 854785,
+    "symbol": "SUNDARMFIN",
+    "avgVol": 41626.6
+  },
+  {
+    "token": 669697,
+    "symbol": "SEAMECLTD",
+    "avgVol": 41340.6
+  },
+  {
+    "token": 1039361,
+    "symbol": "ALPSINDUS",
+    "avgVol": 41076.2
+  },
+  {
+    "token": 611329,
+    "symbol": "NELCO",
+    "avgVol": 40500.8
+  },
+  {
+    "token": 310785,
+    "symbol": "DELTAMAGNT",
+    "avgVol": 40175.2
+  },
+  {
+    "token": 745473,
+    "symbol": "RIIL",
+    "avgVol": 39097.4
+  },
+  {
+    "token": 401921,
+    "symbol": "GMMPFAUDLR",
+    "avgVol": 39024.6
+  },
+  {
+    "token": 838401,
+    "symbol": "TEMBO",
+    "avgVol": 38632.6
+  },
+  {
+    "token": 467457,
+    "symbol": "KAMATHOTEL",
+    "avgVol": 37831.6
+  },
+  {
+    "token": 590593,
+    "symbol": "MUNJALSHOW",
+    "avgVol": 37612.4
+  },
+  {
+    "token": 1100545,
+    "symbol": "STERTOOLS",
+    "avgVol": 35927.8
+  },
+  {
+    "token": 801025,
+    "symbol": "TRANSWORLD",
+    "avgVol": 35374.2
+  },
+  {
+    "token": 460033,
+    "symbol": "AWHCL",
+    "avgVol": 35283.6
+  },
+  {
+    "token": 889601,
+    "symbol": "THERMAX",
+    "avgVol": 35227.6
+  },
+  {
+    "token": 972545,
+    "symbol": "WSTCSTPAPR",
+    "avgVol": 34344.8
+  },
+  {
+    "token": 677121,
+    "symbol": "DRCSYSTEMS",
+    "avgVol": 34320.4
+  },
+  {
+    "token": 996353,
+    "symbol": "HATSUN",
+    "avgVol": 33304.8
+  },
+  {
+    "token": 891393,
+    "symbol": "CLSEL",
+    "avgVol": 33051.2
+  },
+  {
+    "token": 199937,
+    "symbol": "DALMIASUG",
+    "avgVol": 32827
+  },
+  {
+    "token": 1018881,
+    "symbol": "TNPL",
+    "avgVol": 30939.8
+  },
+  {
+    "token": 964097,
+    "symbol": "WHEELS",
+    "avgVol": 29831.6
+  },
+  {
+    "token": 800513,
+    "symbol": "UFBL",
+    "avgVol": 29677.8
+  },
+  {
+    "token": 1033473,
+    "symbol": "AUSOMENT",
+    "avgVol": 29406.4
+  },
+  {
+    "token": 516609,
+    "symbol": "LUMAXIND",
+    "avgVol": 29364.4
+  },
+  {
+    "token": 1014529,
+    "symbol": "GOCLCORP",
+    "avgVol": 29019.2
+  },
+  {
+    "token": 592129,
+    "symbol": "MURUDCERA",
+    "avgVol": 28006.2
+  },
+  {
+    "token": 954113,
+    "symbol": "ANMOL",
+    "avgVol": 27742.6
+  },
+  {
+    "token": 519169,
+    "symbol": "LYKALABS",
+    "avgVol": 27219.8
+  },
+  {
+    "token": 385793,
+    "symbol": "MOGSEC",
+    "avgVol": 27084
+  },
+  {
+    "token": 730625,
+    "symbol": "CRAFTSMAN",
+    "avgVol": 26703.8
+  },
+  {
+    "token": 999937,
+    "symbol": "CAPLIPOINT",
+    "avgVol": 26527.8
+  },
+  {
+    "token": 852225,
+    "symbol": "ISGEC",
+    "avgVol": 26313.8
+  },
+  {
+    "token": 676609,
+    "symbol": "PFIZER",
+    "avgVol": 25593.8
+  },
+  {
+    "token": 329985,
+    "symbol": "GFLLIMITED",
+    "avgVol": 25450.4
+  },
+  {
+    "token": 379393,
+    "symbol": "IFBAGRO",
+    "avgVol": 25313.8
+  },
+  {
+    "token": 416513,
+    "symbol": "LINDEINDIA",
+    "avgVol": 25241
+  },
+  {
+    "token": 361473,
+    "symbol": "AGI",
+    "avgVol": 24498.8
+  },
+  {
+    "token": 687873,
+    "symbol": "POLYPLEX",
+    "avgVol": 24163.6
+  },
+  {
+    "token": 164097,
+    "symbol": "DNAMEDIA",
+    "avgVol": 23871.6
+  },
+  {
+    "token": 787969,
+    "symbol": "SHANTIGEAR",
+    "avgVol": 23521.4
+  },
+  {
+    "token": 815617,
+    "symbol": "SKFINDIA",
+    "avgVol": 23168
+  },
+  {
+    "token": 794369,
+    "symbol": "SHREECEM",
+    "avgVol": 22033.2
+  },
+  {
+    "token": 867585,
+    "symbol": "AGARIND",
+    "avgVol": 21223.6
+  },
+  {
+    "token": 715265,
+    "symbol": "RSWM",
+    "avgVol": 21056.6
+  },
+  {
+    "token": 899073,
+    "symbol": "TNTELE",
+    "avgVol": 20786
+  },
+  {
+    "token": 1058817,
+    "symbol": "BIOFILCHEM",
+    "avgVol": 19847
+  },
+  {
+    "token": 324353,
+    "symbol": "GUJALKALI",
+    "avgVol": 19714.4
+  },
+  {
+    "token": 816129,
+    "symbol": "VMARCIND-SM",
+    "avgVol": 19550
+  },
+  {
+    "token": 669185,
+    "symbol": "HERANBA",
+    "avgVol": 19302.6
+  },
+  {
+    "token": 993281,
+    "symbol": "SOMANYCERA",
+    "avgVol": 19250
+  },
+  {
+    "token": 207105,
+    "symbol": "BSHSL",
+    "avgVol": 19104.8
+  },
+  {
+    "token": 891905,
+    "symbol": "TIL",
+    "avgVol": 19022.2
+  },
+  {
+    "token": 462081,
+    "symbol": "KABRAEXTRU",
+    "avgVol": 18980.4
+  },
+  {
+    "token": 665089,
+    "symbol": "AMJLAND",
+    "avgVol": 18800
+  },
+  {
+    "token": 859393,
+    "symbol": "SUPERSPIN",
+    "avgVol": 17639.2
+  },
+  {
+    "token": 719105,
+    "symbol": "RAJSREESUG",
+    "avgVol": 17594.8
+  },
+  {
+    "token": 635137,
+    "symbol": "ONWARDTEC",
+    "avgVol": 17353.4
+  },
+  {
+    "token": 239617,
+    "symbol": "DPABHUSHAN",
+    "avgVol": 17107.2
+  },
+  {
+    "token": 380161,
+    "symbol": "IFBIND",
+    "avgVol": 17082.8
+  },
+  {
+    "token": 773633,
+    "symbol": "SDL26BEES",
+    "avgVol": 16227.4
+  },
+  {
+    "token": 907777,
+    "symbol": "TTKPRESTIG",
+    "avgVol": 15663.6
+  },
+  {
+    "token": 269569,
+    "symbol": "UFLEX",
+    "avgVol": 15452.4
+  },
+  {
+    "token": 558337,
+    "symbol": "BOSCHLTD",
+    "avgVol": 15299.6
+  },
+  {
+    "token": 1071105,
+    "symbol": "SANGAMIND",
+    "avgVol": 15281.6
+  },
+  {
+    "token": 773377,
+    "symbol": "SOTL",
+    "avgVol": 15152.6
+  },
+  {
+    "token": 866305,
+    "symbol": "SWARAJENG",
+    "avgVol": 14115.6
+  },
+  {
+    "token": 961793,
+    "symbol": "VENKEYS",
+    "avgVol": 13460.2
+  },
+  {
+    "token": 762625,
+    "symbol": "ORTINGLOBE",
+    "avgVol": 13247.8
+  },
+  {
+    "token": 402433,
+    "symbol": "RVHL-BE",
+    "avgVol": 12826.6
+  },
+  {
+    "token": 413185,
+    "symbol": "FAIRCHEMOR",
+    "avgVol": 12700.2
+  },
+  {
+    "token": 210433,
+    "symbol": "BANKA",
+    "avgVol": 11415.8
+  },
+  {
+    "token": 913921,
+    "symbol": "UCAL",
+    "avgVol": 11200
+  },
+  {
+    "token": 1034497,
+    "symbol": "JAYAGROGN",
+    "avgVol": 11174.6
+  },
+  {
+    "token": 945665,
+    "symbol": "VINDHYATEL",
+    "avgVol": 10919
+  },
+  {
+    "token": 752385,
+    "symbol": "RUBYMILLS",
+    "avgVol": 10779.2
+  },
+  {
+    "token": 336641,
+    "symbol": "GALAXYSURF",
+    "avgVol": 10644.2
+  },
+  {
+    "token": 909569,
+    "symbol": "EQUIPPP-BE",
+    "avgVol": 10341.6
+  },
+  {
+    "token": 369153,
+    "symbol": "SANOFI",
+    "avgVol": 10286.6
+  },
+  {
+    "token": 408833,
+    "symbol": "INGERRAND",
+    "avgVol": 10086.2
+  },
+  {
+    "token": 923649,
+    "symbol": "AXISHCETF",
+    "avgVol": 9928.6
+  },
+  {
+    "token": 728065,
+    "symbol": "RANEHOLDIN",
+    "avgVol": 9877
+  },
+  {
+    "token": 263681,
+    "symbol": "AARON",
+    "avgVol": 9749.2
+  },
+  {
+    "token": 189441,
+    "symbol": "SBIETFIT",
+    "avgVol": 9730.8
+  },
+  {
+    "token": 958465,
+    "symbol": "FINEORG",
+    "avgVol": 9616.4
+  },
+  {
+    "token": 916225,
+    "symbol": "UNICHEMLAB",
+    "avgVol": 9240.2
+  },
+  {
+    "token": 1034241,
+    "symbol": "EIMCOELECO",
+    "avgVol": 9123.8
+  },
+  {
+    "token": 664321,
+    "symbol": "3PLAND",
+    "avgVol": 8926
+  },
+  {
+    "token": 244737,
+    "symbol": "667GS2050-GS",
+    "avgVol": 8695.2
+  },
+  {
+    "token": 254209,
+    "symbol": "EVERESTIND",
+    "avgVol": 8514.8
+  },
+  {
+    "token": 469761,
+    "symbol": "KANORICHEM",
+    "avgVol": 7928.6
+  },
+  {
+    "token": 307201,
+    "symbol": "ESG",
+    "avgVol": 7742.8
+  },
+  {
+    "token": 205825,
+    "symbol": "SHIVATEX",
+    "avgVol": 7628.8
+  },
+  {
+    "token": 784897,
+    "symbol": "SESHAPAPER",
+    "avgVol": 7574
+  },
+  {
+    "token": 206081,
+    "symbol": "DCM",
+    "avgVol": 7452
+  },
+  {
+    "token": 805889,
+    "symbol": "SIDDHIKA-SM",
+    "avgVol": 7200
+  },
+  {
+    "token": 372481,
+    "symbol": "BIRLANU",
+    "avgVol": 7117
+  },
+  {
+    "token": 513025,
+    "symbol": "AHLADA",
+    "avgVol": 6996.2
+  },
+  {
+    "token": 158465,
+    "symbol": "CENTENKA",
+    "avgVol": 6856
+  },
+  {
+    "token": 183041,
+    "symbol": "HEUBACHIND",
+    "avgVol": 6668.8
+  },
+  {
+    "token": 648961,
+    "symbol": "PGHH",
+    "avgVol": 6632.6
+  },
+  {
+    "token": 510465,
+    "symbol": "LIBERTSHOE",
+    "avgVol": 6359.4
+  },
+  {
+    "token": 978177,
+    "symbol": "ZODIACLOTH",
+    "avgVol": 5793
+  },
+  {
+    "token": 540673,
+    "symbol": "MARALOVER",
+    "avgVol": 5702.4
+  },
+  {
+    "token": 726785,
+    "symbol": "MAHICKRA-SM",
+    "avgVol": 5550
+  },
+  {
+    "token": 800257,
+    "symbol": "SHREYANIND",
+    "avgVol": 5540.4
+  },
+  {
+    "token": 1084161,
+    "symbol": "WENDT",
+    "avgVol": 5175.4
+  },
+  {
+    "token": 456193,
+    "symbol": "KANPRPLA",
+    "avgVol": 5108.4
+  },
+  {
+    "token": 605441,
+    "symbol": "GIRIRAJ-SM",
+    "avgVol": 5050
+  },
+  {
+    "token": 665345,
+    "symbol": "PARTYCRUS-SM",
+    "avgVol": 5000
+  },
+  {
+    "token": 378881,
+    "symbol": "REPL",
+    "avgVol": 4855.8
+  },
+  {
+    "token": 336129,
+    "symbol": "HARRMALAYA",
+    "avgVol": 4801
+  },
+  {
+    "token": 1078273,
+    "symbol": "UCL-SM",
+    "avgVol": 4800
+  },
+  {
+    "token": 716545,
+    "symbol": "CHEMFAB",
+    "avgVol": 4414.6
+  },
+  {
+    "token": 240641,
+    "symbol": "PGHL",
+    "avgVol": 4397.8
+  },
+  {
+    "token": 244481,
+    "symbol": "ESABINDIA",
+    "avgVol": 4280.2
+  },
+  {
+    "token": 1057281,
+    "symbol": "REGENCERAM",
+    "avgVol": 4165
+  },
+  {
+    "token": 425729,
+    "symbol": "SUNDROP",
+    "avgVol": 4031.4
+  },
+  {
+    "token": 755457,
+    "symbol": "S&SPOWER",
+    "avgVol": 3927.4
+  },
+  {
+    "token": 582913,
+    "symbol": "MRF",
+    "avgVol": 3625.8
+  },
+  {
+    "token": 1054209,
+    "symbol": "HBSL-BE",
+    "avgVol": 3595
+  },
+  {
+    "token": 770561,
+    "symbol": "AXISTECETF",
+    "avgVol": 3584.8
+  },
+  {
+    "token": 965633,
+    "symbol": "WILLAMAGOR",
+    "avgVol": 3471.4
+  },
+  {
+    "token": 695297,
+    "symbol": "BUTTERFLY",
+    "avgVol": 3416.2
+  },
+  {
+    "token": 869377,
+    "symbol": "TAINWALCHM",
+    "avgVol": 3203.6
+  },
+  {
+    "token": 1050881,
+    "symbol": "SILINV",
+    "avgVol": 2980.2
+  },
+  {
+    "token": 495873,
+    "symbol": "KREBSBIO",
+    "avgVol": 2969.4
+  },
+  {
+    "token": 981505,
+    "symbol": "BHARATRAS",
+    "avgVol": 2950.4
+  },
+  {
+    "token": 803329,
+    "symbol": "HONDAPOWER",
+    "avgVol": 2904.2
+  },
+  {
+    "token": 874753,
+    "symbol": "HONAUT",
+    "avgVol": 2857
+  },
+  {
+    "token": 1095425,
+    "symbol": "DENORA",
+    "avgVol": 2830.6
+  },
+  {
+    "token": 289025,
+    "symbol": "GTECJAINX",
+    "avgVol": 2797.6
+  },
+  {
+    "token": 492289,
+    "symbol": "WEALTH",
+    "avgVol": 2764.8
+  },
+  {
+    "token": 619777,
+    "symbol": "NILKAMAL",
+    "avgVol": 2748
+  },
+  {
+    "token": 430337,
+    "symbol": "IVP",
+    "avgVol": 2728
+  },
+  {
+    "token": 533761,
+    "symbol": "MAHSCOOTER",
+    "avgVol": 2705
+  },
+  {
+    "token": 365057,
+    "symbol": "MHHL-SM",
+    "avgVol": 2700
+  },
+  {
+    "token": 383233,
+    "symbol": "SHIVAMILLS",
+    "avgVol": 2677.6
+  },
+  {
+    "token": 570625,
+    "symbol": "MODIRUBBER",
+    "avgVol": 2620.8
+  },
+  {
+    "token": 184833,
+    "symbol": "SBIETFPB",
+    "avgVol": 2303
+  },
+  {
+    "token": 463617,
+    "symbol": "KAKATCEM",
+    "avgVol": 2261.8
+  },
+  {
+    "token": 842497,
+    "symbol": "STARPAPER",
+    "avgVol": 2223.2
+  },
+  {
+    "token": 1064193,
+    "symbol": "KEYFINSERV",
+    "avgVol": 2138
+  },
+  {
+    "token": 351233,
+    "symbol": "HINDCOMPOS",
+    "avgVol": 2090.6
+  },
+  {
+    "token": 647937,
+    "symbol": "CONTI-SM",
+    "avgVol": 1999.8
+  },
+  {
+    "token": 1001473,
+    "symbol": "KHAITANLTD",
+    "avgVol": 1899.4
+  },
+  {
+    "token": 831233,
+    "symbol": "NITIRAJ",
+    "avgVol": 1662
+  },
+  {
+    "token": 1045249,
+    "symbol": "AMBANIORGO-SM",
+    "avgVol": 1600
+  },
+  {
+    "token": 736513,
+    "symbol": "96IIFL28A-NF",
+    "avgVol": 1588.4
+  },
+  {
+    "token": 179969,
+    "symbol": "DICIND",
+    "avgVol": 1541.4
+  },
+  {
+    "token": 694017,
+    "symbol": "PRECOT",
+    "avgVol": 1532.6
+  },
+  {
+    "token": 959489,
+    "symbol": "WEIZMANIND",
+    "avgVol": 1498.2
+  },
+  {
+    "token": 506625,
+    "symbol": "LMW",
+    "avgVol": 1320.8
+  },
+  {
+    "token": 1069825,
+    "symbol": "SUNDRMBRAK",
+    "avgVol": 1230.2
+  },
+  {
+    "token": 545793,
+    "symbol": "MDL-SM",
+    "avgVol": 1200
+  },
+  {
+    "token": 982273,
+    "symbol": "TOKYOPLAST",
+    "avgVol": 1097.4
+  },
+  {
+    "token": 1069057,
+    "symbol": "ZENITHEXPO",
+    "avgVol": 1087
+  },
+  {
+    "token": 593153,
+    "symbol": "676GS2061-GS",
+    "avgVol": 1016.6
+  },
+  {
+    "token": 820225,
+    "symbol": "664GS2035-GS",
+    "avgVol": 1000
+  },
+  {
+    "token": 624385,
+    "symbol": "NKIND",
+    "avgVol": 979.6
+  },
+  {
+    "token": 883969,
+    "symbol": "TECILCHEM",
+    "avgVol": 932
+  },
+  {
+    "token": 764929,
+    "symbol": "SANDESH",
+    "avgVol": 904
+  },
+  {
+    "token": 734977,
+    "symbol": "10IIFL28A-NE",
+    "avgVol": 876.4
+  },
+  {
+    "token": 274689,
+    "symbol": "FOSECOIND",
+    "avgVol": 872.4
+  },
+  {
+    "token": 720385,
+    "symbol": "ARVEE",
+    "avgVol": 870.6
+  },
+  {
+    "token": 886785,
+    "symbol": "82IGT31-NJ",
+    "avgVol": 847.8
+  },
+  {
+    "token": 267265,
+    "symbol": "AXISBNKETF",
+    "avgVol": 810.4
+  },
+  {
+    "token": 216833,
+    "symbol": "SMVD-SM",
+    "avgVol": 808
+  },
+  {
+    "token": 573697,
+    "symbol": "MODTHREAD",
+    "avgVol": 789.8
+  },
+  {
+    "token": 154369,
+    "symbol": "865IRFC29-NA",
+    "avgVol": 757.2
+  },
+  {
+    "token": 754433,
+    "symbol": "888REC29-NF",
+    "avgVol": 691.4
+  },
+  {
+    "token": 511745,
+    "symbol": "888IRFC29-NE",
+    "avgVol": 656.6
+  },
+  {
+    "token": 957953,
+    "symbol": "SGBMAY29I-GB",
+    "avgVol": 610.4
+  },
+  {
+    "token": 719361,
+    "symbol": "SGBMR29XII-GB",
+    "avgVol": 461.2
+  },
+  {
+    "token": 889857,
+    "symbol": "797IGT31-NL",
+    "avgVol": 438.4
+  },
+  {
+    "token": 213505,
+    "symbol": "SGBOC28VII-GB",
+    "avgVol": 393.2
+  },
+  {
+    "token": 878849,
+    "symbol": "79IGT28-NF",
+    "avgVol": 332
+  },
+  {
+    "token": 356609,
+    "symbol": "880IREDA34-N6",
+    "avgVol": 321.4
+  },
+  {
+    "token": 343553,
+    "symbol": "SGBN28VIII-GB",
+    "avgVol": 310.2
+  },
+  {
+    "token": 491521,
+    "symbol": "SGBJAN29IX-GB",
+    "avgVol": 306.6
+  },
+  {
+    "token": 356097,
+    "symbol": "880IREDA29-N5",
+    "avgVol": 200
+  },
+  {
+    "token": 958209,
+    "symbol": "SGBJUN29II-GB",
+    "avgVol": 194
+  },
+  {
+    "token": 1098753,
+    "symbol": "985ECL28-NK",
+    "avgVol": 177.2
+  },
+  {
+    "token": 1097729,
+    "symbol": "943ECL28-NJ",
+    "avgVol": 153.8
+  },
+  {
+    "token": 738049,
+    "symbol": "IIFLZC28-NG",
+    "avgVol": 151.8
+  },
+  {
+    "token": 563201,
+    "symbol": "SGBFEB29XI-GB",
+    "avgVol": 108.6
+  },
+  {
+    "token": 883457,
+    "symbol": "769IGT28-NH",
+    "avgVol": 100
+  },
+  {
+    "token": 353281,
+    "symbol": "855IREDA29-N2",
+    "avgVol": 94
+  },
+  {
+    "token": 972801,
+    "symbol": "SGBJU29III-GB",
+    "avgVol": 82
+  },
+  {
+    "token": 740097,
+    "symbol": "SGBMAY26-GB",
+    "avgVol": 71.4
+  },
+  {
+    "token": 256257,
+    "symbol": "94SFL28-YL",
+    "avgVol": 50
+  },
+  {
+    "token": 512769,
+    "symbol": "SGBJAN29X-GB",
+    "avgVol": 46.2
+  },
+  {
+    "token": 819713,
+    "symbol": "563GS2026-GS",
+    "avgVol": 36.8
+  },
+  {
+    "token": 186625,
+    "symbol": "SGBDEC25XI-GB",
+    "avgVol": 23.2
+  },
+  {
+    "token": 876801,
+    "symbol": "76IGT26-ND",
+    "avgVol": 16
+  },
+  {
+    "token": 452353,
+    "symbol": "890NHB34-N7",
+    "avgVol": 6.6
+  },
+  {
+    "token": 241921,
+    "symbol": "SGBJAN26-GB",
+    "avgVol": 3.6
+  },
+  {
+    "token": 203521,
+    "symbol": "SGBDEC2512-GB",
+    "avgVol": 1.6
+  },
+  {
+    "token": 243969,
+    "symbol": "622GS2035-GS",
+    "avgVol": 0.4
+  },
+  {
+    "token": 220673,
+    "symbol": "SGBDEC2513-GB",
+    "avgVol": 0.2
+  },
+  {
+    "token": 755969,
+    "symbol": "886REC34-NG",
+    "avgVol": 0.2
+  },
+  {
+    "token": 151041,
+    "symbol": "669PN30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 151297,
+    "symbol": "840IRFC29-N8",
+    "avgVol": 0
+  },
+  {
+    "token": 151809,
+    "symbol": "661KA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 152577,
+    "symbol": "663MH30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 153345,
+    "symbol": "645MH27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 154881,
+    "symbol": "655MH28-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 155905,
+    "symbol": "665ML30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 156417,
+    "symbol": "66RJ30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 157185,
+    "symbol": "663UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 157953,
+    "symbol": "662UK30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 158209,
+    "symbol": "675KA33A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 158721,
+    "symbol": "699WB35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 160257,
+    "symbol": "691AP39-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 161025,
+    "symbol": "691MP40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 161281,
+    "symbol": "694TS50A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 190977,
+    "symbol": "687AP35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 193025,
+    "symbol": "656AS30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 194049,
+    "symbol": "651KA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 194817,
+    "symbol": "662JH30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 196353,
+    "symbol": "689MP40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 197889,
+    "symbol": "647MH28-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 198657,
+    "symbol": "656MH30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 199425,
+    "symbol": "654UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 200193,
+    "symbol": "662KA32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 214017,
+    "symbol": "575PY26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 214273,
+    "symbol": "61RJ27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 214529,
+    "symbol": "645HP29-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 215041,
+    "symbol": "651HP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 215809,
+    "symbol": "64KA30B-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 216577,
+    "symbol": "64GJ30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 217345,
+    "symbol": "642UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 218113,
+    "symbol": "642GA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 218369,
+    "symbol": "644UK30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 218881,
+    "symbol": "645RJ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 219649,
+    "symbol": "655TR30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 220417,
+    "symbol": "648KA31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 221185,
+    "symbol": "655AP33-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 221953,
+    "symbol": "672HR35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 224257,
+    "symbol": "677AP38-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 224513,
+    "symbol": "676PN40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 224769,
+    "symbol": "678TS50-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 248065,
+    "symbol": "675RJ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 248833,
+    "symbol": "64KA30C-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 249089,
+    "symbol": "64MH30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 249857,
+    "symbol": "643AP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 251393,
+    "symbol": "646GJ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 252161,
+    "symbol": "648AS30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 252929,
+    "symbol": "648MZ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 253697,
+    "symbol": "65NL30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 254465,
+    "symbol": "652PY30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 255233,
+    "symbol": "659UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 256001,
+    "symbol": "656MH32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 257025,
+    "symbol": "679AP34-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 257537,
+    "symbol": "675KA35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 257793,
+    "symbol": "679PN35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 258305,
+    "symbol": "68JK35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 259073,
+    "symbol": "676MP40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 259841,
+    "symbol": "688WB40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 260609,
+    "symbol": "68TS50-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 274945,
+    "symbol": "655GA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 275201,
+    "symbol": "65GJ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 275713,
+    "symbol": "659HR30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 276481,
+    "symbol": "647KA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 277249,
+    "symbol": "661RJ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 277505,
+    "symbol": "66SK30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 278017,
+    "symbol": "66UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 279041,
+    "symbol": "684MZ34-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 279553,
+    "symbol": "675KA34-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 280321,
+    "symbol": "679MP40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 281089,
+    "symbol": "68TS50A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 296193,
+    "symbol": "654AR30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 296449,
+    "symbol": "649KA30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 296961,
+    "symbol": "654RJ30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 297729,
+    "symbol": "66AS30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 298241,
+    "symbol": "66PN30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 298497,
+    "symbol": "672KA33-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 299265,
+    "symbol": "678WB35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 300033,
+    "symbol": "681TR35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 310273,
+    "symbol": "635MH28-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 311041,
+    "symbol": "653HP29-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 312577,
+    "symbol": "66HP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 314113,
+    "symbol": "65KA30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 315649,
+    "symbol": "65GJ30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 316417,
+    "symbol": "652MH30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 316673,
+    "symbol": "657GA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 317185,
+    "symbol": "658UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 317697,
+    "symbol": "659RJ30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 318977,
+    "symbol": "664AS30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 319489,
+    "symbol": "666KA32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 320257,
+    "symbol": "667MH32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 320769,
+    "symbol": "67JK32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 321025,
+    "symbol": "673TN40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 321537,
+    "symbol": "673TS50-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 326145,
+    "symbol": "VASA-SM",
+    "avgVol": 0
+  },
+  {
+    "token": 343297,
+    "symbol": "585GS2030-GS",
+    "avgVol": 0
+  },
+  {
+    "token": 346369,
+    "symbol": "AMJUMBO-SM",
+    "avgVol": 0
+  },
+  {
+    "token": 348417,
+    "symbol": "622KL27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 348673,
+    "symbol": "64AP28-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 349185,
+    "symbol": "649GJ29-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 349441,
+    "symbol": "653KA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 350209,
+    "symbol": "66MN30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 350465,
+    "symbol": "662RJ30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 351489,
+    "symbol": "665JK30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 352257,
+    "symbol": "668JH32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 352769,
+    "symbol": "668AP33-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 353025,
+    "symbol": "669KA37-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 353793,
+    "symbol": "673PN40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 354049,
+    "symbol": "855IREDA34-N3",
+    "avgVol": 0
+  },
+  {
+    "token": 354817,
+    "symbol": "674TS50-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 364033,
+    "symbol": "66RJ30B-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 364801,
+    "symbol": "662AS30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 365569,
+    "symbol": "662NL30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 366081,
+    "symbol": "668MZ31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 366593,
+    "symbol": "668AP35A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 367873,
+    "symbol": "668KA36-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 369409,
+    "symbol": "671WB40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 370177,
+    "symbol": "671TS40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 370945,
+    "symbol": "593CG26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 371969,
+    "symbol": "654KA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 372225,
+    "symbol": "655GA30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 387329,
+    "symbol": "535RJ25-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 388097,
+    "symbol": "654GA30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 389633,
+    "symbol": "652KA30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 390401,
+    "symbol": "656UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 391169,
+    "symbol": "66ML30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 391937,
+    "symbol": "665KA35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 392193,
+    "symbol": "668WB35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 392961,
+    "symbol": "667TS50-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 420865,
+    "symbol": "657HP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 421121,
+    "symbol": "66AS30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 421377,
+    "symbol": "658GA30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 421633,
+    "symbol": "657HP30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 422145,
+    "symbol": "66UP30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 422401,
+    "symbol": "651KA30B-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 422657,
+    "symbol": "663KA34-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 422913,
+    "symbol": "663TN35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 423681,
+    "symbol": "669TS40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 433921,
+    "symbol": "662UP30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 434433,
+    "symbol": "541GA25-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 435201,
+    "symbol": "532RJ25-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 435969,
+    "symbol": "588CG26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 437505,
+    "symbol": "617KL27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 438273,
+    "symbol": "66ML30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 439041,
+    "symbol": "66RJ30C-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 440577,
+    "symbol": "66WB30-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 442113,
+    "symbol": "651KA30C-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 442881,
+    "symbol": "664PY32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 443649,
+    "symbol": "662KA32A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 444929,
+    "symbol": "665TR35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 445185,
+    "symbol": "665AP36-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 445953,
+    "symbol": "665TS40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 446721,
+    "symbol": "665AP40-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 449793,
+    "symbol": "665PN50A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 450049,
+    "symbol": "868NHB29-N3",
+    "avgVol": 0
+  },
+  {
+    "token": 450817,
+    "symbol": "865NHB34-N4",
+    "avgVol": 0
+  },
+  {
+    "token": 451841,
+    "symbol": "893NHB29-N6",
+    "avgVol": 0
+  },
+  {
+    "token": 466177,
+    "symbol": "532AS26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 466945,
+    "symbol": "582RJ27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 467713,
+    "symbol": "645GJ30A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 468481,
+    "symbol": "658GA31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 469249,
+    "symbol": "663MN31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 470017,
+    "symbol": "659RJ31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 470785,
+    "symbol": "653TN31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 471553,
+    "symbol": "66UP31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 474625,
+    "symbol": "66UK31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 476161,
+    "symbol": "666JH34-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 476929,
+    "symbol": "664JK36-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 477697,
+    "symbol": "664AP39-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 478977,
+    "symbol": "665AP41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 479233,
+    "symbol": "664TS51-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 482817,
+    "symbol": "572BR26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 483073,
+    "symbol": "597CG27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 483329,
+    "symbol": "664SK31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 483841,
+    "symbol": "657TN31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 484097,
+    "symbol": "661UP31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 485377,
+    "symbol": "661RJ31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 486145,
+    "symbol": "664MZ32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 486913,
+    "symbol": "663WB41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 487681,
+    "symbol": "663AP37-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 488961,
+    "symbol": "663PN51-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 495617,
+    "symbol": "582BR26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 496129,
+    "symbol": "662UP31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 496385,
+    "symbol": "662GA31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 496641,
+    "symbol": "663ML31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 497665,
+    "symbol": "661KA33-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 498433,
+    "symbol": "661WB36-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 499201,
+    "symbol": "66KA37-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 499969,
+    "symbol": "661MP37-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 501505,
+    "symbol": "662TS41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 509697,
+    "symbol": "863IRFC29-NC",
+    "avgVol": 0
+  },
+  {
+    "token": 515329,
+    "symbol": "61CG27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 515585,
+    "symbol": "657GJ31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 516097,
+    "symbol": "661RJ31A-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 516353,
+    "symbol": "661TS51-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 516865,
+    "symbol": "662HR41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 517121,
+    "symbol": "662RJ41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 517377,
+    "symbol": "663HP31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 517633,
+    "symbol": "663WB31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 517889,
+    "symbol": "663HP33-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 518145,
+    "symbol": "664UP31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 528641,
+    "symbol": "689BR28-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 530177,
+    "symbol": "645RJ27-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 530945,
+    "symbol": "699JK31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 531713,
+    "symbol": "685GA31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 531969,
+    "symbol": "688MN31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 532225,
+    "symbol": "685RJ31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 532481,
+    "symbol": "688UP31-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 532737,
+    "symbol": "69AP32-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 534017,
+    "symbol": "689AP35-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 534785,
+    "symbol": "688RJ46-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 535553,
+    "symbol": "689WB41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 536321,
+    "symbol": "686TS41-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 536577,
+    "symbol": "687AP37-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 536833,
+    "symbol": "685TN51-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 543489,
+    "symbol": "619AS26-SG",
+    "avgVol": 0
+  },
+  {
+    "token": 544001,
+    "symbol": "609RJ26-SG",
+    "avgVol": 0
+  }
+]
