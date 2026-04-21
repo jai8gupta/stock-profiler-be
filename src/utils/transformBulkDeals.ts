@@ -32,6 +32,10 @@ export const transformBulkDeals = (data: NseLargeDealResponse) => {
         filteredBulkDealsData.push(...value);
     }
 
-    return filteredBulkDealsData;
+    const asOn = data.as_on_date?.trim();
+    return filteredBulkDealsData.map((deal) => ({
+        ...deal,
+        date: deal.date?.trim() ? deal.date : asOn ?? deal.date,
+    }));
 };
 
